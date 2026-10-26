@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:obsidian"
+  ],
+  "result": {
+    "id": "lynxrelics:dragon_shell_dust",
+    "count": 4
+  }
+}

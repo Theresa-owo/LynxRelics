@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:resonant_bone",
+    "lynxrelics:resonant_bone",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:string",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "lynxrelics:resonant_necklace",
+    "count": 1
+  }
+}

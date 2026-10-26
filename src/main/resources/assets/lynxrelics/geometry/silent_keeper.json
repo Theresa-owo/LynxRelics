@@ -1,0 +1,1085 @@
+{
+  "textureSize": 128,
+  "coordinateSystem": "Minecraft model units; Y down, ground at 24",
+  "bones": [
+    {
+      "name": "body",
+      "pivot": [
+        0,
+        6,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "torso",
+          "from": [
+            -6,
+            -2,
+            -3
+          ],
+          "to": [
+            6,
+            13,
+            3
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "chest_plate",
+          "from": [
+            -5,
+            1,
+            -4
+          ],
+          "to": [
+            5,
+            10,
+            -3
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        },
+        {
+          "name": "core",
+          "from": [
+            -2,
+            3,
+            -4.2
+          ],
+          "to": [
+            2,
+            7,
+            -3.8
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "root"
+    },
+    {
+      "name": "head",
+      "pivot": [
+        0,
+        -3,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "head",
+          "from": [
+            -4,
+            -10,
+            -4
+          ],
+          "to": [
+            4,
+            -2,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        },
+        {
+          "name": "visor",
+          "from": [
+            -3,
+            -7,
+            -4.1
+          ],
+          "to": [
+            3,
+            -5,
+            -3.8
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "arm_left",
+      "pivot": [
+        -7,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "upper",
+          "from": [
+            -9,
+            0,
+            -2
+          ],
+          "to": [
+            -5,
+            9,
+            2
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "hand",
+          "from": [
+            -9.4,
+            9,
+            -2.4
+          ],
+          "to": [
+            -4.6,
+            15,
+            2.4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "leg_left",
+      "pivot": [
+        -3,
+        12,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "leg",
+          "from": [
+            -5,
+            12,
+            -2
+          ],
+          "to": [
+            -1,
+            22,
+            2
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "foot",
+          "from": [
+            -5.5,
+            21,
+            -3
+          ],
+          "to": [
+            -0.5,
+            24,
+            3
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_-1_0",
+      "pivot": [
+        -5,
+        0,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -6,
+            0,
+            2
+          ],
+          "to": [
+            -4,
+            3,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_-1_1",
+      "pivot": [
+        -6,
+        2,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -7,
+            2,
+            2
+          ],
+          "to": [
+            -5,
+            5,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_-1_2",
+      "pivot": [
+        -5,
+        4,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -6,
+            4,
+            2
+          ],
+          "to": [
+            -4,
+            7,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_-1_3",
+      "pivot": [
+        -6,
+        6,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -7,
+            6,
+            2
+          ],
+          "to": [
+            -5,
+            9,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_-1_4",
+      "pivot": [
+        -5,
+        8,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -6,
+            8,
+            2
+          ],
+          "to": [
+            -4,
+            11,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_-1_5",
+      "pivot": [
+        -6,
+        10,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -7,
+            10,
+            2
+          ],
+          "to": [
+            -5,
+            13,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "arm_right",
+      "pivot": [
+        7,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "upper",
+          "from": [
+            5,
+            0,
+            -2
+          ],
+          "to": [
+            9,
+            9,
+            2
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "hand",
+          "from": [
+            4.6,
+            9,
+            -2.4
+          ],
+          "to": [
+            9.4,
+            15,
+            2.4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "leg_right",
+      "pivot": [
+        3,
+        12,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "leg",
+          "from": [
+            1,
+            12,
+            -2
+          ],
+          "to": [
+            5,
+            22,
+            2
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "foot",
+          "from": [
+            0.5,
+            21,
+            -3
+          ],
+          "to": [
+            5.5,
+            24,
+            3
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_1_0",
+      "pivot": [
+        5,
+        0,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            4,
+            0,
+            2
+          ],
+          "to": [
+            6,
+            3,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_1_1",
+      "pivot": [
+        6,
+        2,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            5,
+            2,
+            2
+          ],
+          "to": [
+            7,
+            5,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_1_2",
+      "pivot": [
+        5,
+        4,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            4,
+            4,
+            2
+          ],
+          "to": [
+            6,
+            7,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_1_3",
+      "pivot": [
+        6,
+        6,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            5,
+            6,
+            2
+          ],
+          "to": [
+            7,
+            9,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_1_4",
+      "pivot": [
+        5,
+        8,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            4,
+            8,
+            2
+          ],
+          "to": [
+            6,
+            11,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "pottery_1_5",
+      "pivot": [
+        6,
+        10,
+        2
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            5,
+            10,
+            2
+          ],
+          "to": [
+            7,
+            13,
+            4
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_0",
+      "pivot": [
+        -3,
+        1,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -3.5,
+            1,
+            -4.25
+          ],
+          "to": [
+            -2.5,
+            2,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_1",
+      "pivot": [
+        0,
+        1,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -0.5,
+            1,
+            -4.25
+          ],
+          "to": [
+            0.5,
+            2,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_2",
+      "pivot": [
+        3,
+        1,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            2.5,
+            1,
+            -4.25
+          ],
+          "to": [
+            3.5,
+            2,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_3",
+      "pivot": [
+        -3,
+        3,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -3.5,
+            3,
+            -4.25
+          ],
+          "to": [
+            -2.5,
+            4,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_4",
+      "pivot": [
+        0,
+        3,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -0.5,
+            3,
+            -4.25
+          ],
+          "to": [
+            0.5,
+            4,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_5",
+      "pivot": [
+        3,
+        3,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            2.5,
+            3,
+            -4.25
+          ],
+          "to": [
+            3.5,
+            4,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_6",
+      "pivot": [
+        -3,
+        5,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -3.5,
+            5,
+            -4.25
+          ],
+          "to": [
+            -2.5,
+            6,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_7",
+      "pivot": [
+        0,
+        5,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -0.5,
+            5,
+            -4.25
+          ],
+          "to": [
+            0.5,
+            6,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_8",
+      "pivot": [
+        3,
+        5,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            2.5,
+            5,
+            -4.25
+          ],
+          "to": [
+            3.5,
+            6,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_9",
+      "pivot": [
+        -3,
+        7,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -3.5,
+            7,
+            -4.25
+          ],
+          "to": [
+            -2.5,
+            8,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_10",
+      "pivot": [
+        0,
+        7,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            -0.5,
+            7,
+            -4.25
+          ],
+          "to": [
+            0.5,
+            8,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "rune_11",
+      "pivot": [
+        3,
+        7,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "rune",
+          "from": [
+            2.5,
+            7,
+            -4.25
+          ],
+          "to": [
+            3.5,
+            8,
+            -4.05
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    }
+  ],
+  "animations": [
+    {
+      "name": "idle",
+      "length": 1.6,
+      "loop": true,
+      "tracks": [
+        {
+          "bone": "body",
+          "channel": "position",
+          "axis": "y",
+          "values": [
+            0,
+            -0.25,
+            0,
+            0.25,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "windup",
+      "length": 1,
+      "loop": false,
+      "tracks": [
+        {
+          "bone": "arm_left",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            0,
+            -10,
+            -20,
+            -25,
+            -25
+          ]
+        },
+        {
+          "bone": "arm_right",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            0,
+            -10,
+            -20,
+            -25,
+            -25
+          ]
+        }
+      ]
+    },
+    {
+      "name": "strike",
+      "length": 0.4,
+      "loop": false,
+      "tracks": [
+        {
+          "bone": "arm_left",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -25,
+            15,
+            8,
+            0,
+            0
+          ]
+        },
+        {
+          "bone": "arm_right",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -25,
+            15,
+            8,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

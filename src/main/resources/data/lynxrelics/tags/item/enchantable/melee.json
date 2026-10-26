@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:enchantable/sharp_weapon",
+    "minecraft:trident",
+    "lynxrelics:rift_blade",
+    "lynxrelics:tide_spear"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:resonant_bone",
+    "lynxrelics:resonant_bone",
+    "minecraft:phantom_membrane",
+    "minecraft:phantom_membrane",
+    "#minecraft:wool",
+    "#minecraft:wool",
+    "#minecraft:wool",
+    "#minecraft:wool"
+  ],
+  "result": {
+    "id": "lynxrelics:murmur_cloak",
+    "count": 1
+  }
+}

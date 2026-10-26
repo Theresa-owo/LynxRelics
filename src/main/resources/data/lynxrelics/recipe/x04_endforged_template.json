@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "DTD",
+    "DED",
+    "DDD"
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "T": "lynxrelics:endforged_template",
+    "E": "minecraft:end_stone"
+  },
+  "result": {
+    "id": "lynxrelics:endforged_template",
+    "count": 2
+  }
+}

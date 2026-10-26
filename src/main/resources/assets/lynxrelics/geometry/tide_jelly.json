@@ -1,0 +1,848 @@
+{
+  "textureSize": 64,
+  "coordinateSystem": "Minecraft model units; Y down, ground at 24",
+  "bones": [
+    {
+      "name": "body",
+      "pivot": [
+        0,
+        8,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "bell",
+          "from": [
+            -6,
+            5,
+            -6
+          ],
+          "to": [
+            6,
+            9,
+            6
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "cap",
+          "from": [
+            -4,
+            3,
+            -4
+          ],
+          "to": [
+            4,
+            6,
+            4
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "rim",
+          "from": [
+            -6.3,
+            8,
+            -6.3
+          ],
+          "to": [
+            6.3,
+            10,
+            6.3
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        },
+        {
+          "name": "core",
+          "from": [
+            -2,
+            6,
+            -2
+          ],
+          "to": [
+            2,
+            10,
+            2
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "root"
+    },
+    {
+      "name": "tentacle_0_0",
+      "pivot": [
+        4,
+        10,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            3.65,
+            10,
+            -0.35
+          ],
+          "to": [
+            4.35,
+            14,
+            0.35
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "tentacle_0_1",
+      "pivot": [
+        4,
+        14,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            3.65,
+            14,
+            -0.35
+          ],
+          "to": [
+            4.35,
+            18,
+            0.35
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "tentacle_0_0"
+    },
+    {
+      "name": "tentacle_0_2",
+      "pivot": [
+        4,
+        18,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            3.65,
+            18,
+            -0.35
+          ],
+          "to": [
+            4.35,
+            22,
+            0.35
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "tentacle_0_1"
+    },
+    {
+      "name": "tentacle_1_0",
+      "pivot": [
+        2.0000000000000004,
+        10,
+        3.4641016151377544
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            1.6500000000000004,
+            10,
+            3.1141016151377543
+          ],
+          "to": [
+            2.3500000000000005,
+            14,
+            3.8141016151377545
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "tentacle_1_1",
+      "pivot": [
+        2.0000000000000004,
+        14,
+        3.4641016151377544
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            1.6500000000000004,
+            14,
+            3.1141016151377543
+          ],
+          "to": [
+            2.3500000000000005,
+            18,
+            3.8141016151377545
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "tentacle_1_0"
+    },
+    {
+      "name": "tentacle_1_2",
+      "pivot": [
+        2.0000000000000004,
+        18,
+        3.4641016151377544
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            1.6500000000000004,
+            18,
+            3.1141016151377543
+          ],
+          "to": [
+            2.3500000000000005,
+            22,
+            3.8141016151377545
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "tentacle_1_1"
+    },
+    {
+      "name": "tentacle_2_0",
+      "pivot": [
+        -1.9999999999999991,
+        10,
+        3.464101615137755
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -2.349999999999999,
+            10,
+            3.1141016151377547
+          ],
+          "to": [
+            -1.649999999999999,
+            14,
+            3.814101615137755
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "tentacle_2_1",
+      "pivot": [
+        -1.9999999999999991,
+        14,
+        3.464101615137755
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -2.349999999999999,
+            14,
+            3.1141016151377547
+          ],
+          "to": [
+            -1.649999999999999,
+            18,
+            3.814101615137755
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "tentacle_2_0"
+    },
+    {
+      "name": "tentacle_2_2",
+      "pivot": [
+        -1.9999999999999991,
+        18,
+        3.464101615137755
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -2.349999999999999,
+            18,
+            3.1141016151377547
+          ],
+          "to": [
+            -1.649999999999999,
+            22,
+            3.814101615137755
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "tentacle_2_1"
+    },
+    {
+      "name": "tentacle_3_0",
+      "pivot": [
+        -4,
+        10,
+        4.898587196589413e-16
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -4.35,
+            10,
+            -0.3499999999999995
+          ],
+          "to": [
+            -3.65,
+            14,
+            0.3500000000000005
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "tentacle_3_1",
+      "pivot": [
+        -4,
+        14,
+        4.898587196589413e-16
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -4.35,
+            14,
+            -0.3499999999999995
+          ],
+          "to": [
+            -3.65,
+            18,
+            0.3500000000000005
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "tentacle_3_0"
+    },
+    {
+      "name": "tentacle_3_2",
+      "pivot": [
+        -4,
+        18,
+        4.898587196589413e-16
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -4.35,
+            18,
+            -0.3499999999999995
+          ],
+          "to": [
+            -3.65,
+            22,
+            0.3500000000000005
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "tentacle_3_1"
+    },
+    {
+      "name": "tentacle_4_0",
+      "pivot": [
+        -2.0000000000000018,
+        10,
+        -3.464101615137754
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -2.350000000000002,
+            10,
+            -3.814101615137754
+          ],
+          "to": [
+            -1.6500000000000017,
+            14,
+            -3.114101615137754
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "tentacle_4_1",
+      "pivot": [
+        -2.0000000000000018,
+        14,
+        -3.464101615137754
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -2.350000000000002,
+            14,
+            -3.814101615137754
+          ],
+          "to": [
+            -1.6500000000000017,
+            18,
+            -3.114101615137754
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "tentacle_4_0"
+    },
+    {
+      "name": "tentacle_4_2",
+      "pivot": [
+        -2.0000000000000018,
+        18,
+        -3.464101615137754
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            -2.350000000000002,
+            18,
+            -3.814101615137754
+          ],
+          "to": [
+            -1.6500000000000017,
+            22,
+            -3.114101615137754
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "tentacle_4_1"
+    },
+    {
+      "name": "tentacle_5_0",
+      "pivot": [
+        2.0000000000000004,
+        10,
+        -3.4641016151377544
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            1.6500000000000004,
+            10,
+            -3.8141016151377545
+          ],
+          "to": [
+            2.3500000000000005,
+            14,
+            -3.1141016151377543
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "tentacle_5_1",
+      "pivot": [
+        2.0000000000000004,
+        14,
+        -3.4641016151377544
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            1.6500000000000004,
+            14,
+            -3.8141016151377545
+          ],
+          "to": [
+            2.3500000000000005,
+            18,
+            -3.1141016151377543
+          ],
+          "material": "cloth",
+          "uv": [
+            0,
+            16
+          ]
+        }
+      ],
+      "parent": "tentacle_5_0"
+    },
+    {
+      "name": "tentacle_5_2",
+      "pivot": [
+        2.0000000000000004,
+        18,
+        -3.4641016151377544
+      ],
+      "cubes": [
+        {
+          "name": "segment",
+          "from": [
+            1.6500000000000004,
+            18,
+            -3.8141016151377545
+          ],
+          "to": [
+            2.3500000000000005,
+            22,
+            -3.1141016151377543
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "tentacle_5_1"
+    }
+  ],
+  "animations": [
+    {
+      "name": "idle",
+      "length": 1.6,
+      "loop": true,
+      "tracks": [
+        {
+          "bone": "tentacle_0_0",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_0_1",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_0_2",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_1_0",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_1_1",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_1_2",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_2_0",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_2_1",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_2_2",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_3_0",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_3_1",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_3_2",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_4_0",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_4_1",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_4_2",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_5_0",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_5_1",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        },
+        {
+          "bone": "tentacle_5_2",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -6,
+            8,
+            6,
+            -8,
+            -6
+          ]
+        }
+      ]
+    },
+    {
+      "name": "windup",
+      "length": 1,
+      "loop": false,
+      "tracks": []
+    },
+    {
+      "name": "strike",
+      "length": 0.4,
+      "loop": false,
+      "tracks": []
+    }
+  ]
+}

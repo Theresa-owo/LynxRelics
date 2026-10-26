@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:deepslate",
+    "minecraft:deepslate",
+    "minecraft:deepslate",
+    "minecraft:deepslate",
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_block",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:note_block"
+  ],
+  "result": {
+    "id": "lynxrelics:echo_workstation",
+    "count": 1
+  }
+}

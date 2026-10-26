@@ -1,0 +1,702 @@
+[
+  {
+    "id": "dragon_essence",
+    "source": "assets/icons/source/dragon_essence-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "4c885d2efb4a9fb06f0c81fddd66b0ffdd95ecdc97b64dd6e1e77fbfbe1e5d7b",
+    "runtimeSha256": "521fa61da83cfb4c6012a97fb64d99410d9418d2d4c6f00fac2e91ff84f416f3"
+  },
+  {
+    "id": "dragon_shell_dust",
+    "source": "assets/icons/source/dragon_shell_dust-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "94501b60e0adb5ec39712823e3dc33b2e9951199d7c1efe9a07e5417f904c573",
+    "runtimeSha256": "3f882e9d4231c64089961f9e1ef914ce76847f5e4694b3400d794682619f2794"
+  },
+  {
+    "id": "dragonbound_ingot",
+    "source": "assets/icons/source/dragonbound_ingot-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "26f86d2d63494476cf4e6630ecc121ada57c3f5292143791c78ab8e65ff04cae",
+    "runtimeSha256": "e8c9f2eafd8324aa3f77c5d6465d04bee477a0b72e3f2a07d33b9dc8844dc3d5"
+  },
+  {
+    "id": "shed_dragon_scale",
+    "source": "assets/icons/source/shed_dragon_scale-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "8ef7ec3a91477de54d75c5ab1b3c6d30f4336e363703296475babfe8f4927bc7",
+    "runtimeSha256": "f24446053eec61fbd8ca5a5b5acc952cfe1a19653a4ad2de9c1f235309bcd2c1"
+  },
+  {
+    "id": "embryo_crystal",
+    "source": "assets/icons/source/embryo_crystal-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "ca7ae761d21780cdaef96724c09c7bfbeb3a7e729356a01ee38c3452a5348bad",
+    "runtimeSha256": "2db5ebd062f8d4fe7c49d312fe130a7d4b860a2079dce4069e70d6c497284641"
+  },
+  {
+    "id": "empty_embryo_shell",
+    "source": "assets/icons/source/empty_embryo_shell-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "93886a08ba62eece9280e7273178d22d7cae22cf8f8fb6ab1f69410664064d5e",
+    "runtimeSha256": "3a160f4530862cc3747cadc9d993c42a0ea9f98a954d122f05752776d75e1190"
+  },
+  {
+    "id": "echo_dust",
+    "source": "assets/icons/source/echo_dust-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "9935cbc9f9532cb4b24f2b74f11742a64b21f3b9b38cccda51efd3589ba5f86a",
+    "runtimeSha256": "eee3bc5aadb44ad8aa5bcabb0ae16b630ba4df4bc6026425d51d54eb65ca1841"
+  },
+  {
+    "id": "resonant_bone",
+    "source": "assets/icons/source/resonant_bone-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "7ed06bf800b4918011419f2d650dc51401da3a2ecfa836c2271ea49c4a5099b9",
+    "runtimeSha256": "5de164fae976fa44f95802e237486ff0b45aa6cc3791bd168a2c730394ab59b6"
+  },
+  {
+    "id": "moth_scale",
+    "source": "assets/icons/source/moth_scale-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "4206dac38bd768627f9564b221a661fb324ba0c655d00253aef12b3f2ebfdfed",
+    "runtimeSha256": "1c100e24a9e6194b863d590780030eafc39e5022ee7a4858d10ab935c5fa4530"
+  },
+  {
+    "id": "keeper_shard",
+    "source": "assets/icons/source/keeper_shard-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "b16f935edb2b7d4ae560489ac8490529b00576ff295b4413d95ba6d2626953b4",
+    "runtimeSha256": "f5248a2f1399094b531beeafe97472699c926b24b9dd0590108b0afeb663e2e2"
+  },
+  {
+    "id": "condensed_tide",
+    "source": "assets/icons/source/condensed_tide-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "4a5f81a688cc2adeac51748fbdd1a714a0bd585ea0bc7b4091333b6c1126b369",
+    "runtimeSha256": "dff306514217d53fc3d8f0764a34aa4c2c1b54aaa5de60fff71f2a68a3ebc88a"
+  },
+  {
+    "id": "tideforged_copper",
+    "source": "assets/icons/source/tideforged_copper-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "190e7a0cf167c9ceb49f5d872cffa522985a4e1a6f811e980a18814c77c44adf",
+    "runtimeSha256": "1dc1143d0c615766e0b92eeb2ca9376ed238d522d7f7c06c7b5c6c22cf39c2b3"
+  },
+  {
+    "id": "jelly_pearl",
+    "source": "assets/icons/source/jelly_pearl-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "099ed3dd8567fcdf37038cf7abe4de6c1e01ec9b27d1e06700fac61a3ae0094d",
+    "runtimeSha256": "fb646b41a7cba93e1b9b71073c6677735306c59576d3a7795b27f80d4ae02ba3"
+  },
+  {
+    "id": "reef_shell",
+    "source": "assets/icons/source/reef_shell-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "b4dacaf9cfcea9557406bad63c3edc51483c3ce3a331c6bb20c8c95381807813",
+    "runtimeSha256": "2017c8a798a9d24707152bbaa81b23bbc7161bc1a0f3da961f93170a86b82274"
+  },
+  {
+    "id": "endmarrow_scrap",
+    "source": "assets/icons/source/endmarrow_scrap-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "f0828c70f7612fa6232c04d7718de66eb83e7c3a73857f27b7ef81abcf01bc9f",
+    "runtimeSha256": "fda15b6e2c013379ec74c08c4d23b3597344e2665b125bf08c8511be1e61e7f3"
+  },
+  {
+    "id": "endmarrow_ingot",
+    "source": "assets/icons/source/endmarrow_ingot-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "71e3ef3485505191782701139a749ebadc67f4c63bd0452c60db89625812bbbb",
+    "runtimeSha256": "23ae4a7930531df25505d029d4636270dd26516b023249a29fc5334dd0aa3105"
+  },
+  {
+    "id": "rift_emblem",
+    "source": "assets/icons/source/rift_emblem-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "1929e99f9207a8191b319b454ecdba7831248380b5fccf68826bd0514e20bb29",
+    "runtimeSha256": "87fdf1982fbe9ef6fb6490dd315665644a725045000d62b28453593ea05dac7c"
+  },
+  {
+    "id": "endforged_template",
+    "source": "assets/icons/source/endforged_template-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "741aaca39410fcc477c8d620cae474194d4aec099ec294cd36e219c00224c0a7",
+    "runtimeSha256": "8778533afb4c5f68045df75f940889f1280c437cc3ea02fa70b8c3a223777b40"
+  },
+  {
+    "id": "perpetual_core",
+    "source": "assets/icons/source/perpetual_core-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "e2ab39790c89c8daea6a891e3e5580d2bd994face0cc63024d851f56c560ebb1",
+    "runtimeSha256": "67e37bc543cc87f25c44e54e9ca2648dcb31bb9030be7f99469f7b148bcf61f2"
+  },
+  {
+    "id": "dragonheart_prism",
+    "source": "assets/icons/source/dragonheart_prism-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "c63694e3801df8daff2292e766bd775d6c248904de17e8612d70d36a4cfaf393",
+    "runtimeSha256": "a11cc8c8e7f1e5b1586fa0ef0d5e98cd8ad431f70c57405f5572eda40ba71cb3"
+  },
+  {
+    "id": "raid_cloak_pattern",
+    "source": "assets/icons/source/raid_cloak_pattern-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "9ec4bb7b21649bf521c16d0a093827fad8dadf2131fa28142217e318923f8b28",
+    "runtimeSha256": "0d908bef5a27365602a189b9fd57dce09e31dfeca03d8cf37df38f04c5ab784c"
+  },
+  {
+    "id": "relic_upgrade_template",
+    "source": "assets/icons/source/relic_upgrade_template-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "d2aba9cfbee7fef5904b8fcf1949ac215de0641e3c8439bc68649e0c5a654cb7",
+    "runtimeSha256": "351a5bddeb496fa1f252afc85bc34353a7d7e3470ab7332655a3c934285f6098"
+  },
+  {
+    "id": "iron_rim",
+    "source": "assets/icons/source/iron_rim-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "652a7d5b1ad22d4c924e9a56caf4bb81f07367991e1ac75d16a5c2c789259d54",
+    "runtimeSha256": "b0847be8cf2667979256a6de5d98159d9a52c27bc831f86a5acab1f3c36ed195"
+  },
+  {
+    "id": "deflector",
+    "source": "assets/icons/source/deflector-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "b4e44b05e31eeebe4fdaa599c9368021012a09d1eff20d93e57235aa9522bdaa",
+    "runtimeSha256": "d7ce399a35560d3a5865bf5b79d2855edcc4bdc9db2847aec096982bae0baa78"
+  },
+  {
+    "id": "breaching_fitting",
+    "source": "assets/icons/source/breaching_fitting-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "2d5dd7a928de36582c78d7e1119aa3a17125e3e176e5369789898b77066c7189",
+    "runtimeSha256": "146af8bac85417884046cad5a10dd2a4c5693344f247fcebea29fbb645a9033e"
+  },
+  {
+    "id": "quickdraw_string",
+    "source": "assets/icons/source/quickdraw_string-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "b684c16cc1418d3ecd0da003be661c93ce43232ad345e7fb8a6fe1cb8a468331",
+    "runtimeSha256": "26963f8eb3081b7e18e65b737cb160380d0f36077fad646c7a30e27c22f4e516"
+  },
+  {
+    "id": "steady_rest",
+    "source": "assets/icons/source/steady_rest-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "33e91c3ecf87460ff9edefe47b0b15d1f231f98fa332fc59e3ff2f1f10093d50",
+    "runtimeSha256": "a41eeb5ff47a407a3b99dfe709da7cf731dff9441deeeb056f0f200859e8c5e9"
+  },
+  {
+    "id": "magnetic_ring",
+    "source": "assets/icons/source/magnetic_ring-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "40ed370e51ab4d2dd5e496472149344aafcdf8f353559c2c0b2dd4e277e8e040",
+    "runtimeSha256": "58c3eb7481d3310dca404be48041348c16a93c9641760ebabd628e9c8f78758d"
+  },
+  {
+    "id": "expedition_compass",
+    "source": "assets/icons/source/expedition_compass-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "1ac11d26c447095ffae686705231b96ea44ba3e75550857e0fb17ea4a09fcbcc",
+    "runtimeSha256": "0f0033969463978c0c2f0c40734c5d873d3b45406d6c3858951990fe0651c362"
+  },
+  {
+    "id": "stabilizing_ring",
+    "source": "assets/icons/source/stabilizing_ring-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "e99020cf5d5fa5b10640ae1d0772364e7c25d2b704dc50e99bc3f93b45dca075",
+    "runtimeSha256": "ed5204b6a77af98197ed7dfd41f4ed7092aee4039f080c98b9b7a841f3a9170e"
+  },
+  {
+    "id": "abundance_core",
+    "source": "assets/icons/source/abundance_core-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "dcf26c599b3b2af24af9b991331fefa201014227702caad6d1615f0464ec6bcd",
+    "runtimeSha256": "d4f76bcd03a26d49f74fdb022eb320f26364017d805e5df9c84afe39dcd34da5"
+  },
+  {
+    "id": "craftsmanship_core",
+    "source": "assets/icons/source/craftsmanship_core-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "ac0b72a79ac1caacbe23800467d425c19b475ee743382bc25f03e84926303c1c",
+    "runtimeSha256": "84a531bca103e9ce8fb7d8d75661f6110b22d9edeaf7f678cbbfb2f838654dda"
+  },
+  {
+    "id": "shelter_core",
+    "source": "assets/icons/source/shelter_core-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "35e513cdb70934ae0cfcb44bcc8b0701334b3684392e6c09e4c53bdc528e0a90",
+    "runtimeSha256": "31eb0ada5cd97048275146a4cc3bdc82c538e4ce20613c58cfa878ebdad7fc66"
+  },
+  {
+    "id": "homing_dragon_necklace",
+    "source": "assets/icons/source/homing_dragon_necklace-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "9bf30773de707764965ee209533540678e78fdeeaa49aedd04f5c8cd16be2967",
+    "runtimeSha256": "a73bb7472cfef74f8728d6df532cd4e4f08387491d0ac2ea860772b8fcaba6a3"
+  },
+  {
+    "id": "dragonbound_belt",
+    "source": "assets/icons/source/dragonbound_belt-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "92a54016900138c65dbe41b465aa601fe98dd497ed939aa84a1a3f49a1da16af",
+    "runtimeSha256": "0ef4f88dcd5b7f9d483b4f8b07a3d145fb8f9b658ebc1ee2a922e3acea84cd80"
+  },
+  {
+    "id": "dragonthroat_gauntlet",
+    "source": "assets/icons/source/dragonthroat_gauntlet-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "9e475bf4da83f94966ae4fb842e653418086172804c159ce7728f2937c4e8ec1",
+    "runtimeSha256": "f6244854929ea64e24c39ba14d0204226162f54ab8722846e26abb53e9d7fa9d"
+  },
+  {
+    "id": "dragonwing_cloak",
+    "source": "assets/icons/source/dragonwing_cloak-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "809fe5b4b9d2a5d32e749cd1028839aa3c5cfce7ebd2c22ab6fd71563b91f064",
+    "runtimeSha256": "d244e58493d8196fbd171f64393317fa4c9b1e6d7085fa303ad68d3e767f6800"
+  },
+  {
+    "id": "resonant_necklace",
+    "source": "assets/icons/source/resonant_necklace-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "952d4aedd203e51ed1fca085590735a24189a1768f7122995f1aba98ed87a300",
+    "runtimeSha256": "5d004389ed9e7d7c144cde1d858ea8be100be9e6ac2c785910ead046095727d2"
+  },
+  {
+    "id": "silent_belt",
+    "source": "assets/icons/source/silent_belt-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "2fd90ed7ba939e4b5078c5e90d47ac7b60a5638b5eb45f0988e58fcd849fb0dc",
+    "runtimeSha256": "988d952deb6416d25fa81bb7f700f664f6702b0688fd051783b5b3c5f00803e6"
+  },
+  {
+    "id": "keeper_gauntlet",
+    "source": "assets/icons/source/keeper_gauntlet-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "8ec0a4e732c28044d22ab69ded18596a28821d4680cfb1beb657ff68b8668894",
+    "runtimeSha256": "0d1effbabf9c6d7b5e6ed0683f135660960d381b07b085a8c4cd5209c799035b"
+  },
+  {
+    "id": "murmur_cloak",
+    "source": "assets/icons/source/murmur_cloak-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "2684bd825cb560e14e073ec46ae6b355ae65a58a7d822b7f89763643045aa4f7",
+    "runtimeSha256": "51fe59e4bb08f2d8e5c9591106b4031f54b4e85d053e293929846147848215e8"
+  },
+  {
+    "id": "watermirror_necklace",
+    "source": "assets/icons/source/watermirror_necklace-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "c34c8ea15506e5a419f029a570f31a15a1bf52a13ab76827e177279eea701268",
+    "runtimeSha256": "dbe576fe179c95734c348d10f6a2a0cf4a6187a43beae183c1b1f54c3318d473"
+  },
+  {
+    "id": "undertow_belt",
+    "source": "assets/icons/source/undertow_belt-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "0a191d61be124cfb921f47a0c36bb73be2015506f6d723c76fc9016c8be4f05c",
+    "runtimeSha256": "42a58f3e23b02900b32af9ab4a5ef39da5457249f49de2a8ffdee23b65bad330"
+  },
+  {
+    "id": "tidepull_gauntlet",
+    "source": "assets/icons/source/tidepull_gauntlet-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "0e3fd4869c82e89b8ded111820825b9af5d0721b801525e982514593d10266e0",
+    "runtimeSha256": "b52d01077de7438f81fd165f88e01df27b2a62c81653da18e3a1b64d444b66e3"
+  },
+  {
+    "id": "undertow_cloak",
+    "source": "assets/icons/source/undertow_cloak-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "c7e33fcd0c43dd0171532f1e2d500728bdfdcd711d1d70bca6d0adda18efb81c",
+    "runtimeSha256": "ce8fac76dec26507d55cf62f8259e849e6b8dbd417efb7c5b85076aff3b855e0"
+  },
+  {
+    "id": "rift_blade",
+    "source": "assets/icons/source/rift_blade-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "11b0f660a542083628cca8cd5446341d9469a4a637d1e6fd8d05ceb2bdacb818",
+    "runtimeSha256": "841c4339c51cc4ce0fd5480892c32a123e633b5cf63aff2a9840a61b81402e28"
+  },
+  {
+    "id": "tide_spear",
+    "source": "assets/icons/source/tide_spear-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "99cc0675d5dded4905af356e320f81333604afdb156a58b9d13fca1725a9df6b",
+    "runtimeSha256": "845c74e0750563e470f341160d0dea4b22fbe50750b914e79cfc951d528d6f92"
+  },
+  {
+    "id": "echo_shield",
+    "source": "assets/icons/source/echo_shield-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "cb7a9abbd72680279fdbcc52d2baba4b8d38721c48f48fa13952006129733528",
+    "runtimeSha256": "ea95d4dd490e087ad0181913d9374153add979d23d2deafa7f33130fd3f8e26c"
+  },
+  {
+    "id": "resonant_bow",
+    "source": "assets/icons/source/resonant_bow-v3.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "aa3ac747a989e53b5cab9a6ac80f5fa730145291f262be37596ccfee95a9df12",
+    "runtimeSha256": "525e583fa16a6e3d19e6e82bd54e4d36ae7752a35da852affb36e008baa7311f"
+  },
+  {
+    "id": "echo_arrow",
+    "source": "assets/icons/source/echo_arrow-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "39b4d3a21f8fb913094da7e7e30ba8210a7e4e6f747f45624f06598207201332",
+    "runtimeSha256": "0b397bd144e9769891c0e0ef17c8f9063780bf3a1aac417439efd23052ba42be"
+  },
+  {
+    "id": "scouting_arrow",
+    "source": "assets/icons/source/scouting_arrow-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "925ad8a7da870f9640521f5f2b8a44ec43ec61053db2d91650b71feb740c97b7",
+    "runtimeSha256": "89137d54a331eb3dae1933de444fb9e15e41526b7d2a527df7b004b1f0c8a2ac"
+  },
+  {
+    "id": "foam_arrow",
+    "source": "assets/icons/source/foam_arrow-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "f0f3194e0fa3c5ee256b57098229417155dfeb87d69aa6eff44bf267e9d730cf",
+    "runtimeSha256": "aa438735b2941b738a0fd4c365982817c7412294f2b8de3f8c2249a9c919e1df"
+  },
+  {
+    "id": "tide_conch",
+    "source": "assets/icons/source/tide_conch-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "ce6ff8507305ff703045bdcbbe237f75c20bbbffc6915e30692981f39f1cf87c",
+    "runtimeSha256": "a6a1c3897f1cda71dc6e999b4291851d950b737ce51ea654ef3fd4d0d3715e28"
+  },
+  {
+    "id": "cruise_firework",
+    "source": "assets/icons/source/cruise_firework-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "85b9ba451d9275ad344479b4de855345deb6f1dc330586c65dd46ca63fe99b1e",
+    "runtimeSha256": "fc91e0feffc3f20eff7b0008df9dc37b78623cf3d86ac37e2404d3ba9f709376"
+  },
+  {
+    "id": "bound_pearl",
+    "source": "assets/icons/source/bound_pearl-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "8a51babf4d19f10f2776584e19bce2cfa8743216ed1f5bf006217ce42b2152ac",
+    "runtimeSha256": "a5d1e063be9476dddedd57c51cdfaf83e26627784623d1a6922efe9f91ae1624"
+  },
+  {
+    "id": "dragon_workstation",
+    "source": "assets/icons/source/dragon_workstation-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "c6472157790da254704e60c483558b6a38af77f2ea5626756e8852a1b65495f0",
+    "runtimeSha256": "12e89f08d9e2c8e1c85b8f700c3f48823bdea82c63dd6d5169a15c27763e806d"
+  },
+  {
+    "id": "echo_workstation",
+    "source": "assets/icons/source/echo_workstation-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "6ebe983d178357845c9019211a4f7c6b82911eb16728858e0c1f20e25b8d9331",
+    "runtimeSha256": "5e18fff7505ba954a3b55d10be809d74911e932aa89340f3ffbb5ade167248c9"
+  },
+  {
+    "id": "tide_workstation",
+    "source": "assets/icons/source/tide_workstation-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "0750c151ceab18c7c5e55b8a8e28528ccf8b17dc6aa6b6a8892713af380c663c",
+    "runtimeSha256": "22cc9a8abb4c984f02f43e26894ac318ef9a8b7307e7b3a52e32997e895892e8"
+  },
+  {
+    "id": "resonance_box",
+    "source": "assets/icons/source/resonance_box-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "22bb4a5853c046406138b856d99e97f4dc0596641f39b5120ac3d7a4ff044431",
+    "runtimeSha256": "61c5a6d00820f7749d992616ddfdbcea7564a4cbf5201fdb24ec8bae379ea37b"
+  },
+  {
+    "id": "endmarrow_ore",
+    "source": "assets/icons/source/endmarrow_ore-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "ec473c502d3a58c0f3696ba4e2d2e21ba9c1a8957ff69bb42f64b4f896d8d9ae",
+    "runtimeSha256": "9915302a146461a9ce3cb93dc73eea7aa42b3fe55ef695bbd6ac3ea2d0aab2f3"
+  },
+  {
+    "id": "speed_rail",
+    "source": "assets/icons/source/speed_rail-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "9f61ea20e2ac3148ca10d8c495c4d53e06b5e707f5761b4e11fb93376782853b",
+    "runtimeSha256": "b6f7fc8d8b3cf4419b8310ca94670b646836bda76f4668aa859f0a447923571a"
+  },
+  {
+    "id": "endforged_helmet",
+    "source": "assets/icons/source/endforged_helmet-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "fef9f417cfd01e1900d64c49b57fd7f77d47ce106bcfe035a82e8d43f07025b6",
+    "runtimeSha256": "88a486da98d24ea21fbaa23ef328f469c2643e2a581fa47b613a97ffea1f431e"
+  },
+  {
+    "id": "endforged_chestplate",
+    "source": "assets/icons/source/endforged_chestplate-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "06547420b3e8d360c25da1eb98c1142a960cbd4a86eb1ed907de4aed81e43002",
+    "runtimeSha256": "b09db0aa29432e169606be508733229310b53eb83c25b2cfff0731d53feb6fbc"
+  },
+  {
+    "id": "endforged_leggings",
+    "source": "assets/icons/source/endforged_leggings-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "714e36cd693618bb38280bbfb957aa64e5d62b8f07789b5ebc359faa0728d963",
+    "runtimeSha256": "7c037b79fd7a85e68a7404e80bb758c623613ad0b87085956bd338266522642a"
+  },
+  {
+    "id": "endforged_boots",
+    "source": "assets/icons/source/endforged_boots-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "452e44fff7d9c3ba2349336a9209e5e4a0051715eb4dad25c5b156889243272a",
+    "runtimeSha256": "e487d2857bf55e2a147c2ab9771fda2bbd462863ec68e5e61bd2149cd6ced60e"
+  },
+  {
+    "id": "endforged_pickaxe",
+    "source": "assets/icons/source/endforged_pickaxe-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "5c0be68910e360d1ae7f1bc5ee2b85cf88dede2a0f38d3c5face1e251a13e98e",
+    "runtimeSha256": "1736e5e473ad1df4d84316247e9e9a60dfc3c6ce295a79fec7696f73daad2d98"
+  },
+  {
+    "id": "endforged_axe",
+    "source": "assets/icons/source/endforged_axe-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "116e4528356c5ca63b05e60b968f2c5a4f59678a682e8340cd74d3870a723f32",
+    "runtimeSha256": "340a2645db14e1cf32cacbd6069e36b468a9f2ba5cc6682476385fc19923d5bf"
+  },
+  {
+    "id": "endforged_shovel",
+    "source": "assets/icons/source/endforged_shovel-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "5b316587c8f1b79354b61f10a68c82d3b362ccde5a43596d5913a653fec43f90",
+    "runtimeSha256": "9d750794025eefd340e1a7890d0b26237518b87b60678c75d458721064a6edee"
+  },
+  {
+    "id": "endforged_hoe",
+    "source": "assets/icons/source/endforged_hoe-v4.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "8246e2b7a324b2662b80a226baa490c78a87251bd8b414b7e4bc6d98fbd0811a",
+    "runtimeSha256": "75c0a1222846f3449ba3bae68441e2d7cbb4f90b0b2ffb3cb79c339999603494"
+  },
+  {
+    "id": "endforged_sword",
+    "source": "assets/icons/source/endforged_sword-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "780dbecca939096b15db86fafd6e867a13f8b15ca79ce616390c4b4b07681298",
+    "runtimeSha256": "203ff5093516c965b474c97e56be0dc7449d2a21781f1d5c2f58c3cad477d24a"
+  }
+]

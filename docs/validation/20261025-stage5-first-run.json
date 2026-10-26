@@ -1,0 +1,105 @@
+{
+  "minecraft": "26.3",
+  "stage": "isolated-server-component-probe",
+  "passed": false,
+  "checks": [
+    {
+      "name": "player_mixin_and_elytra_exact_interface",
+      "passed": true
+    },
+    {
+      "name": "D02_atomic_materials_bottles_catalyst",
+      "passed": true
+    },
+    {
+      "name": "full_outputs_are_noop_even_when_some_outputs_could_fit",
+      "passed": true
+    },
+    {
+      "name": "tide_returns_one_empty_bucket",
+      "passed": true
+    },
+    {
+      "name": "accessory_slot_types_and_vanilla_inventory_unchanged",
+      "passed": true
+    },
+    {
+      "name": "shift_click_full_inventory_preserves_accessory",
+      "passed": true
+    },
+    {
+      "name": "persistent_resources_cooldowns_and_four_slots_roundtrip",
+      "passed": true
+    },
+    {
+      "name": "dragon_actual_3000_health_and_reload_preserves_encounter",
+      "passed": true
+    },
+    {
+      "name": "endforged_actual_durability_and_smithing_component_retention",
+      "passed": true
+    },
+    {
+      "name": "both_vanilla_minecart_behaviors_read_speed_rail",
+      "passed": true
+    },
+    {
+      "name": "every_registered_item_has_native_lore",
+      "passed": true
+    },
+    {
+      "name": "all_seven_mobs_have_actual_design_attributes",
+      "passed": true
+    },
+    {
+      "name": "brood_encounter_health_is_distinct_and_locked_and_saved",
+      "passed": true
+    },
+    {
+      "name": "one_companion_per_owner_without_loading_other_dimensions",
+      "passed": true
+    },
+    {
+      "name": "six_pulses_are_six_hits_and_do_not_bypass_armor",
+      "passed": true
+    },
+    {
+      "name": "book_craft_and_specialization_keep_atomic_output_and_item_data",
+      "passed": true
+    },
+    {
+      "name": "enchantment_targets_and_exclusivity_are_native",
+      "passed": true
+    },
+    {
+      "name": "quiet_state_packet_roundtrip_consumes_exact_payload",
+      "passed": true
+    },
+    {
+      "name": "actual_elytra_provider_survives_cloak_broken_and_repaired_wings",
+      "passed": true
+    },
+    {
+      "name": "accessories_enter_native_mending_selection_without_armor_effects",
+      "passed": true
+    },
+    {
+      "name": "timed_workstation_reload_resumes_once_and_keeps_catalyst_and_bottles",
+      "passed": true
+    },
+    {
+      "name": "smelting_hook_uses_real_ore_loot_and_exactly_one_extra_wear",
+      "passed": true
+    },
+    {
+      "name": "beacon_core_persists_and_rejects_fuel_without_valid_pyramid",
+      "passed": false,
+      "error": "Cannot invoke \"net.minecraft.server.network.ServerGamePacketListenerImpl.send(net.minecraft.network.protocol.Packet, io.netty.channel.ChannelFutureListener)\" because \"this.connection\" is null"
+    },
+    {
+      "name": "resonator_pickup_roundtrip_keeps_disc_fuel_mode_and_specialization",
+      "passed": true
+    }
+  ],
+  "realClientAcceptance": false
+}

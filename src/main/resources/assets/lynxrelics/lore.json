@@ -1,0 +1,2559 @@
+{
+  "dragon_essence": [
+    {
+      "key": "lore.v3.lynxrelics.dragon_essence.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragon_essence.1",
+      "args": [
+        "balance:breath.refill"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "dragon_shell_dust": [
+    {
+      "key": "lore.v3.lynxrelics.dragon_shell_dust.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "dragonbound_ingot": [
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_ingot.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "shed_dragon_scale": [
+    {
+      "key": "lore.v3.lynxrelics.shed_dragon_scale.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "embryo_crystal": [
+    {
+      "key": "lore.v3.lynxrelics.embryo_crystal.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "empty_embryo_shell": [
+    {
+      "key": "lore.v3.lynxrelics.empty_embryo_shell.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "echo_dust": [
+    {
+      "key": "lore.v3.lynxrelics.echo_dust.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "resonant_bone": [
+    {
+      "key": "lore.v3.lynxrelics.resonant_bone.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "moth_scale": [
+    {
+      "key": "lore.v3.lynxrelics.moth_scale.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "keeper_shard": [
+    {
+      "key": "lore.v3.lynxrelics.keeper_shard.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "condensed_tide": [
+    {
+      "key": "lore.v3.lynxrelics.condensed_tide.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "tideforged_copper": [
+    {
+      "key": "lore.v3.lynxrelics.tideforged_copper.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "jelly_pearl": [
+    {
+      "key": "lore.v3.lynxrelics.jelly_pearl.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "reef_shell": [
+    {
+      "key": "lore.v3.lynxrelics.reef_shell.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endmarrow_scrap": [
+    {
+      "key": "lore.v3.lynxrelics.endmarrow_scrap.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endmarrow_ingot": [
+    {
+      "key": "lore.v3.lynxrelics.endmarrow_ingot.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "rift_emblem": [
+    {
+      "key": "lore.v3.lynxrelics.rift_emblem.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_template": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_template.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_template.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_template.2",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_template.3",
+      "args": [
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_template.4",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_template.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "perpetual_core": [
+    {
+      "key": "lore.v3.lynxrelics.perpetual_core.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.perpetual_core.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "dragonheart_prism": [
+    {
+      "key": "lore.v3.lynxrelics.dragonheart_prism.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "raid_cloak_pattern": [
+    {
+      "key": "lore.v3.lynxrelics.raid_cloak_pattern.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "relic_upgrade_template": [
+    {
+      "key": "lore.v3.lynxrelics.relic_upgrade_template.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "iron_rim": [
+    {
+      "key": "lore.v3.lynxrelics.iron_rim.0",
+      "args": [
+        "gold:25"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "deflector": [
+    {
+      "key": "lore.v3.lynxrelics.deflector.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "breaching_fitting": [
+    {
+      "key": "lore.v3.lynxrelics.breaching_fitting.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "quickdraw_string": [
+    {
+      "key": "lore.v3.lynxrelics.quickdraw_string.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "steady_rest": [
+    {
+      "key": "lore.v3.lynxrelics.steady_rest.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "magnetic_ring": [
+    {
+      "key": "lore.v3.lynxrelics.magnetic_ring.0",
+      "args": [
+        "gold:16"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.magnetic_ring.1",
+      "args": [
+        "gold:6",
+        "gold:4"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.magnetic_ring.2",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "expedition_compass": [
+    {
+      "key": "lore.v3.lynxrelics.expedition_compass.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.expedition_compass.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.expedition_compass.2",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "stabilizing_ring": [
+    {
+      "key": "lore.v3.lynxrelics.stabilizing_ring.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "abundance_core": [
+    {
+      "key": "lore.v3.lynxrelics.abundance_core.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.abundance_core.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "craftsmanship_core": [
+    {
+      "key": "lore.v3.lynxrelics.craftsmanship_core.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.craftsmanship_core.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "shelter_core": [
+    {
+      "key": "lore.v3.lynxrelics.shelter_core.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.shelter_core.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "homing_dragon_necklace": [
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.2",
+      "args": [
+        "key:key.lynxrelics.gauntlet"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.3",
+      "args": [
+        "key:key.lynxrelics.gauntlet"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.4",
+      "args": [
+        "gold:12",
+        "gold:6",
+        "gold:300"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.7",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.8",
+      "args": [
+        "gold:2",
+        "gold:10"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.homing_dragon_necklace.9",
+      "args": [
+        "gold:4",
+        "gold:20",
+        "gold:2"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "dragonbound_belt": [
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.2",
+      "args": [],
+      "color": "green",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.3",
+      "args": [
+        "gold:40",
+        "gold:50"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.4",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.5",
+      "args": [
+        "gold:2",
+        "gold:10"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.6",
+      "args": [
+        "gold:4",
+        "gold:20",
+        "gold:2"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.7",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonbound_belt.8",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "dragonthroat_gauntlet": [
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.2",
+      "args": [
+        "key:key.lynxrelics.gauntlet",
+        "gold:0.75",
+        "gold:2.4"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.3",
+      "args": [
+        "gold:7",
+        "gold:6",
+        "gold:4",
+        "gold:8"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.4",
+      "args": [
+        "gold:18",
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.7",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.8",
+      "args": [
+        "gold:2",
+        "gold:10"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.9",
+      "args": [
+        "gold:4",
+        "gold:20",
+        "gold:2"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.10",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonthroat_gauntlet.11",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "dragonwing_cloak": [
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.2",
+      "args": [
+        "key:key.lynxrelics.cloak"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.3",
+      "args": [
+        "gold:0.5"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.4",
+      "args": [
+        "gold:8",
+        "gold:15",
+        "gold:8"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.5",
+      "args": [
+        "gold:4"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.7",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.8",
+      "args": [
+        "gold:2",
+        "gold:10"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.9",
+      "args": [
+        "gold:4",
+        "gold:20",
+        "gold:2"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.10",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragonwing_cloak.11",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "resonant_necklace": [
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.0",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.2",
+      "args": [
+        "gold:2"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.3",
+      "args": [
+        "key:key.lynxrelics.gauntlet"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.4",
+      "args": [
+        "gold:12",
+        "gold:16"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.6",
+      "args": [
+        "gold:6"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.7",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.8",
+      "args": [
+        "gold:2",
+        "gold:1",
+        "gold:12"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.9",
+      "args": [
+        "gold:4",
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.10",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_necklace.11",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "silent_belt": [
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.0",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.2",
+      "args": [],
+      "color": "green",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.3",
+      "args": [
+        "gold:0.6"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.4",
+      "args": [
+        "gold:6",
+        "gold:6",
+        "gold:18"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.6",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.7",
+      "args": [
+        "gold:2",
+        "gold:1",
+        "gold:12"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.8",
+      "args": [
+        "gold:4",
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.9",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.silent_belt.10",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "keeper_gauntlet": [
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.0",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.2",
+      "args": [],
+      "color": "green",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.3",
+      "args": [
+        "gold:0.30"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.4",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.5",
+      "args": [
+        "gold:6"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.6",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.7",
+      "args": [
+        "gold:2",
+        "gold:1",
+        "gold:12"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.8",
+      "args": [
+        "gold:4",
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.9",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.keeper_gauntlet.10",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "murmur_cloak": [
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.0",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.2",
+      "args": [],
+      "color": "green",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.3",
+      "args": [
+        "gold:2"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.4",
+      "args": [
+        "gold:20"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.5",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.6",
+      "args": [
+        "gold:2",
+        "gold:1",
+        "gold:12"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.7",
+      "args": [
+        "gold:4",
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.8",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.murmur_cloak.9",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "watermirror_necklace": [
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.0",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.2",
+      "args": [
+        "key:key.lynxrelics.gauntlet"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.3",
+      "args": [
+        "gold:0.25",
+        "gold:40",
+        "gold:12"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.4",
+      "args": [
+        "gold:8"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.5",
+      "args": [
+        "gold:5",
+        "gold:3"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.6",
+      "args": [
+        "gold:5",
+        "gold:3"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.7",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.8",
+      "args": [
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.9",
+      "args": [
+        "gold:4",
+        "gold:6",
+        "gold:18"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.10",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.watermirror_necklace.11",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "undertow_belt": [
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.0",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.2",
+      "args": [],
+      "color": "green",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.3",
+      "args": [
+        "gold:100",
+        "gold:120",
+        "gold:20"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.4",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.5",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.6",
+      "args": [
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.7",
+      "args": [
+        "gold:4",
+        "gold:6",
+        "gold:18"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.8",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_belt.9",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "tidepull_gauntlet": [
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.0",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.2",
+      "args": [
+        "key:key.lynxrelics.gauntlet"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.3",
+      "args": [
+        "gold:5",
+        "gold:3",
+        "gold:6",
+        "gold:1"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.4",
+      "args": [
+        "gold:25",
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.6",
+      "args": [
+        "gold:5",
+        "gold:3"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.7",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.8",
+      "args": [
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.9",
+      "args": [
+        "gold:4",
+        "gold:6",
+        "gold:18"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.10",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tidepull_gauntlet.11",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "undertow_cloak": [
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.0",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.1",
+      "args": [
+        "key:key.lynxrelics.accessories"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.2",
+      "args": [],
+      "color": "green",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.3",
+      "args": [
+        "gold:40",
+        "gold:4"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.4",
+      "args": [
+        "gold:20"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.5",
+      "args": [
+        "gold:5",
+        "gold:3"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.6",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.7",
+      "args": [
+        "gold:2",
+        "gold:8"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.8",
+      "args": [
+        "gold:4",
+        "gold:6",
+        "gold:18"
+      ],
+      "color": "light_purple",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.9",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.undertow_cloak.10",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "rift_blade": [
+    {
+      "key": "lore.v3.lynxrelics.rift_blade.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.rift_blade.1",
+      "args": [
+        "key:key.lynxrelics.weapon"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.rift_blade.2",
+      "args": [
+        "key:key.lynxrelics.weapon",
+        "gold:0.6"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.rift_blade.3",
+      "args": [
+        "gold:6",
+        "gold:3",
+        "gold:12"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.rift_blade.4",
+      "args": [
+        "gold:10",
+        "gold:25",
+        "gold:12"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.rift_blade.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.rift_blade.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "tide_spear": [
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.0",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.1",
+      "args": [
+        "key:key.lynxrelics.weapon"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.2",
+      "args": [
+        "key:key.lynxrelics.weapon",
+        "gold:0.6"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.3",
+      "args": [
+        "gold:8",
+        "gold:3",
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.4",
+      "args": [
+        "gold:25",
+        "gold:8"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.5",
+      "args": [
+        "gold:6",
+        "gold:40",
+        "gold:12"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.7",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_spear.8",
+      "args": [
+        "gold:5",
+        "gold:3"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "echo_shield": [
+    {
+      "key": "lore.v3.lynxrelics.echo_shield.0",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.echo_shield.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.echo_shield.2",
+      "args": [
+        "gold:12"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.echo_shield.3",
+      "args": [
+        "gold:6",
+        "gold:6"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.echo_shield.4",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "resonant_bow": [
+    {
+      "key": "lore.v3.lynxrelics.resonant_bow.0",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_bow.1",
+      "args": [],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_bow.2",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_bow.3",
+      "args": [
+        "gold:6",
+        "gold:4"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonant_bow.4",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "echo_arrow": [
+    {
+      "key": "lore.v3.lynxrelics.echo_arrow.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "scouting_arrow": [
+    {
+      "key": "lore.v3.lynxrelics.scouting_arrow.0",
+      "args": [
+        "gold:4"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "foam_arrow": [
+    {
+      "key": "lore.v3.lynxrelics.foam_arrow.0",
+      "args": [
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "tide_conch": [
+    {
+      "key": "lore.v3.lynxrelics.tide_conch.0",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_conch.1",
+      "args": [
+        "key:key.lynxrelics.weapon"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_conch.2",
+      "args": [
+        "key:key.lynxrelics.weapon"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_conch.3",
+      "args": [
+        "gold:24",
+        "gold:15",
+        "gold:12"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_conch.4",
+      "args": [
+        "gold:4"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_conch.5",
+      "args": [
+        "gold:25",
+        "gold:90",
+        "gold:96",
+        "gold:64"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_conch.6",
+      "args": [
+        "gold:5",
+        "gold:3"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "cruise_firework": [
+    {
+      "key": "lore.v3.lynxrelics.cruise_firework.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.cruise_firework.1",
+      "args": [
+        "seconds:infinite.fireworkCooldown"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.cruise_firework.2",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.cruise_firework.3",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "bound_pearl": [
+    {
+      "key": "lore.v3.lynxrelics.bound_pearl.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.bound_pearl.1",
+      "args": [
+        "seconds:infinite.pearlCooldown"
+      ],
+      "color": "aqua",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.bound_pearl.2",
+      "args": [
+        "gold:15"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.bound_pearl.3",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "dragon_workstation": [
+    {
+      "key": "lore.v3.lynxrelics.dragon_workstation.0",
+      "args": [],
+      "color": "#cf92e8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragon_workstation.1",
+      "args": [
+        "gold:8",
+        "gold:4"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.dragon_workstation.2",
+      "args": [
+        "gold:20",
+        "gold:8"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "echo_workstation": [
+    {
+      "key": "lore.v3.lynxrelics.echo_workstation.0",
+      "args": [],
+      "color": "#7dd7e3",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.echo_workstation.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.echo_workstation.2",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "tide_workstation": [
+    {
+      "key": "lore.v3.lynxrelics.tide_workstation.0",
+      "args": [],
+      "color": "#78d6b5",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_workstation.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.tide_workstation.2",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "resonance_box": [
+    {
+      "key": "lore.v3.lynxrelics.resonance_box.0",
+      "args": [
+        "gold:60"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonance_box.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.resonance_box.2",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endmarrow_ore": [
+    {
+      "key": "lore.v3.lynxrelics.endmarrow_ore.0",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endmarrow_ore.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "speed_rail": [
+    {
+      "key": "lore.v3.lynxrelics.speed_rail.0",
+      "args": [
+        "gold:4",
+        "gold:8",
+        "gold:16",
+        "gold:24"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.speed_rail.1",
+      "args": [
+        "gold:8"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_helmet": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_helmet.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_helmet.1",
+      "args": [
+        "percent:forging.magicResistancePerPiece"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_helmet.2",
+      "args": [
+        "percent:forging.magicResistanceCap"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_helmet.3",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_helmet.4",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_helmet.5",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_helmet.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_chestplate": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_chestplate.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_chestplate.1",
+      "args": [
+        "percent:forging.magicResistancePerPiece"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_chestplate.2",
+      "args": [
+        "percent:forging.magicResistanceCap"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_chestplate.3",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_chestplate.4",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_chestplate.5",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_chestplate.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_leggings": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_leggings.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_leggings.1",
+      "args": [
+        "percent:forging.magicResistancePerPiece"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_leggings.2",
+      "args": [
+        "percent:forging.magicResistanceCap"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_leggings.3",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_leggings.4",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_leggings.5",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_leggings.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_boots": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_boots.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_boots.1",
+      "args": [
+        "percent:forging.magicResistancePerPiece"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_boots.2",
+      "args": [
+        "percent:forging.magicResistanceCap"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_boots.3",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_boots.4",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_boots.5",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_boots.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_pickaxe": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_pickaxe.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_pickaxe.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_pickaxe.2",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_pickaxe.3",
+      "args": [
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_pickaxe.4",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_pickaxe.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_axe": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_axe.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_axe.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_axe.2",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_axe.3",
+      "args": [
+        "balance:forging.axeAttackDamage",
+        "balance:forging.axeAttackSpeed"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_axe.4",
+      "args": [
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_axe.5",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_axe.6",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_shovel": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_shovel.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_shovel.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_shovel.2",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_shovel.3",
+      "args": [
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_shovel.4",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_shovel.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_hoe": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_hoe.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_hoe.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_hoe.2",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_hoe.3",
+      "args": [
+        "gold:10"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_hoe.4",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_hoe.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "endforged_sword": [
+    {
+      "key": "lore.v3.lynxrelics.endforged_sword.0",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_sword.1",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_sword.2",
+      "args": [],
+      "color": "dark_gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_sword.3",
+      "args": [
+        "balance:forging.swordAttackDamage",
+        "balance:forging.swordAttackSpeed"
+      ],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_sword.4",
+      "args": [],
+      "color": "#b78ce8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "key": "lore.v3.lynxrelics.endforged_sword.5",
+      "args": [],
+      "color": "gray",
+      "bold": false,
+      "italic": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui",
+          "ground",
+          "fixed",
+          "on_shelf"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "lynxrelics:item/resonant_bow_icon"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "lynxrelics:item/resonant_bow_draw_0"
+      },
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:use_duration",
+        "scale": 0.05,
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "lynxrelics:item/resonant_bow_draw_0"
+        },
+        "entries": [
+          {
+            "threshold": 0.1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_1"
+            }
+          },
+          {
+            "threshold": 0.2,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_2"
+            }
+          },
+          {
+            "threshold": 0.3,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_3"
+            }
+          },
+          {
+            "threshold": 0.4,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_4"
+            }
+          },
+          {
+            "threshold": 0.5,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_5"
+            }
+          },
+          {
+            "threshold": 0.6,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_6"
+            }
+          },
+          {
+            "threshold": 0.7,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_7"
+            }
+          },
+          {
+            "threshold": 0.8,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_8"
+            }
+          },
+          {
+            "threshold": 0.9,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_9"
+            }
+          },
+          {
+            "threshold": 1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "lynxrelics:item/resonant_bow_draw_10"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

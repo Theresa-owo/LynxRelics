@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:endmarrow_scrap",
+    "lynxrelics:endmarrow_scrap",
+    "lynxrelics:endmarrow_scrap",
+    "lynxrelics:endmarrow_scrap",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "lynxrelics:dragon_essence"
+  ],
+  "result": {
+    "id": "lynxrelics:endmarrow_ingot",
+    "count": 1
+  }
+}

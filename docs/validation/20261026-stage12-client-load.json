@@ -1,0 +1,18 @@
+{
+  "minecraft": "26.3",
+  "stage": "isolated-client-resource-load",
+  "clientSession": 78731,
+  "clientProcessIds": [
+    67036
+  ],
+  "world": "Test",
+  "joined": [
+    "[18:18:25] [Server thread/INFO] (Minecraft) RelicsTester[local:E:d1b0a2bc] logged in with entity id 61 at (-30.585016982127733, 63.0, 2.5453573211563527)"
+  ],
+  "modTextureOrModelWarnings": 0,
+  "warnings": [],
+  "jarSHA256": "7F76C6B0EE11D87C4004B084A8C9D5424D52CF1F46FA23D6D3FA4B911CF68E54",
+  "resourcePacks": [],
+  "realClientVisualAcceptance": false,
+  "fullCombatAcceptance": false
+}

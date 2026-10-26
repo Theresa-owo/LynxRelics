@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:arrow",
+    "minecraft:arrow",
+    "minecraft:arrow",
+    "minecraft:arrow",
+    "lynxrelics:condensed_tide",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "lynxrelics:foam_arrow",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "lynxrelics:relic_upgrade_template",
+  "base": "minecraft:bow",
+  "addition": "lynxrelics:quickdraw_string",
+  "result": {
+    "id": "minecraft:bow"
+  }
+}

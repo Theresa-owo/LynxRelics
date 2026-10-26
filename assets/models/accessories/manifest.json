@@ -1,0 +1,30 @@
+[
+  {
+    "family": "necklace",
+    "cubes": 8,
+    "attachment": "body",
+    "source": "necklace.bbmodel",
+    "phase": "textured"
+  },
+  {
+    "family": "belt",
+    "cubes": 10,
+    "attachment": "body",
+    "source": "belt.bbmodel",
+    "phase": "textured"
+  },
+  {
+    "family": "gauntlet",
+    "cubes": 24,
+    "attachment": "right_arm",
+    "source": "gauntlet.bbmodel",
+    "phase": "textured"
+  },
+  {
+    "family": "cloak",
+    "cubes": 20,
+    "attachment": "body",
+    "source": "cloak.bbmodel",
+    "phase": "textured"
+  }
+]

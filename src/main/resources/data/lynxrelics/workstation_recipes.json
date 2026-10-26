@@ -1,0 +1,1539 @@
+[
+  {
+    "id": "D02",
+    "route": "dragon",
+    "ticks": 400,
+    "catalyst": "minecraft:dragon_egg",
+    "inputs": {
+      "minecraft:dragon_breath": 8
+    },
+    "outputs": {
+      "lynxrelics:dragon_essence": 4,
+      "minecraft:glass_bottle": 8
+    }
+  },
+  {
+    "id": "D05",
+    "route": "dragon",
+    "ticks": 400,
+    "catalyst": "minecraft:dragon_egg",
+    "inputs": {
+      "minecraft:dragon_breath": 8,
+      "lynxrelics:dragon_shell_dust": 4
+    },
+    "outputs": {
+      "lynxrelics:dragon_essence": 6,
+      "minecraft:glass_bottle": 8
+    }
+  },
+  {
+    "id": "D06",
+    "route": "dragon",
+    "ticks": 120,
+    "inputs": {
+      "lynxrelics:dragon_essence": 2,
+      "minecraft:end_stone": 1,
+      "minecraft:iron_ingot": 1
+    },
+    "outputs": {
+      "lynxrelics:dragonbound_ingot": 1
+    }
+  },
+  {
+    "id": "D11",
+    "route": "dragon",
+    "ticks": 600,
+    "inputs": {
+      "lynxrelics:dragon_essence": 4,
+      "minecraft:ender_eye": 1,
+      "minecraft:popped_chorus_fruit": 2,
+      "minecraft:glass_bottle": 1
+    },
+    "outputs": {
+      "lynxrelics:embryo_crystal": 1
+    }
+  },
+  {
+    "id": "E02",
+    "route": "echo",
+    "ticks": 320,
+    "catalyst": "minecraft:echo_shard",
+    "inputs": {
+      "minecraft:amethyst_shard": 4,
+      "minecraft:bone": 2,
+      "minecraft:copper_ingot": 1
+    },
+    "outputs": {
+      "lynxrelics:echo_dust": 4
+    }
+  },
+  {
+    "id": "E03",
+    "route": "echo",
+    "ticks": 120,
+    "inputs": {
+      "lynxrelics:echo_dust": 2,
+      "minecraft:bone": 1,
+      "minecraft:copper_ingot": 1
+    },
+    "outputs": {
+      "lynxrelics:resonant_bone": 1
+    }
+  },
+  {
+    "id": "T02",
+    "route": "tide",
+    "ticks": 320,
+    "catalyst": "minecraft:heart_of_the_sea",
+    "inputs": {
+      "minecraft:nautilus_shell": 1,
+      "minecraft:prismarine_shard": 4,
+      "minecraft:dried_kelp": 8,
+      "minecraft:water_bucket": 1
+    },
+    "outputs": {
+      "lynxrelics:condensed_tide": 4,
+      "minecraft:bucket": 1
+    }
+  },
+  {
+    "id": "T03",
+    "route": "tide",
+    "ticks": 320,
+    "catalyst": "minecraft:heart_of_the_sea",
+    "inputs": {
+      "lynxrelics:jelly_pearl": 1,
+      "minecraft:prismarine_shard": 4,
+      "minecraft:dried_kelp": 8,
+      "minecraft:water_bucket": 1
+    },
+    "outputs": {
+      "lynxrelics:condensed_tide": 4,
+      "minecraft:bucket": 1
+    }
+  },
+  {
+    "id": "T04",
+    "route": "tide",
+    "ticks": 120,
+    "inputs": {
+      "lynxrelics:condensed_tide": 2,
+      "minecraft:copper_ingot": 2
+    },
+    "outputs": {
+      "lynxrelics:tideforged_copper": 1
+    }
+  },
+  {
+    "id": "E11",
+    "route": "echo",
+    "ticks": 160,
+    "catalyst": "minecraft:echo_shard",
+    "inputs": {
+      "lynxrelics:echo_dust": 4,
+      "#minecraft:decorated_pot_sherds": 2,
+      "minecraft:amethyst_block": 1
+    },
+    "outputs": {},
+    "mode": "ritual",
+    "encounter": "silent_keeper"
+  },
+  {
+    "id": "R02",
+    "route": "dragon",
+    "ticks": 160,
+    "catalyst": "minecraft:dragon_egg",
+    "inputs": {
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:condensed_tide": 2
+    },
+    "outputs": {},
+    "mode": "ritual",
+    "encounter": "brood_drake"
+  },
+  {
+    "id": "D11.reconstitution",
+    "route": "dragon",
+    "ticks": 600,
+    "inputs": {
+      "lynxrelics:dragon_essence": 2,
+      "minecraft:glass_bottle": 1,
+      "lynxrelics:empty_embryo_shell": 1
+    },
+    "outputs": {
+      "lynxrelics:embryo_crystal": 1
+    }
+  },
+  {
+    "id": "N01.breach.dragon",
+    "route": "dragon",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:dragon_essence": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "breach",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.breach.dragon",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:dragon_essence": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "breach",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N02.echo.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:echo_dust": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "echo",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.echo.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "echo",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N03.tide_conduction.tide",
+    "route": "tide",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:condensed_tide": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "tide_conduction",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.tide_conduction.tide",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:condensed_tide": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "tide_conduction",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N02.long_resonance.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:echo_dust": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "long_resonance",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.long_resonance.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "long_resonance",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N02.resonant_guard.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:echo_dust": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "resonant_guard",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.resonant_guard.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "resonant_guard",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N02.bulwark.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:echo_dust": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "bulwark",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.bulwark.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "bulwark",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N01.breath_capacity.dragon",
+    "route": "dragon",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:dragon_essence": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "breath_capacity",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.breath_capacity.dragon",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:dragon_essence": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "breath_capacity",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N03.tide_capacity.tide",
+    "route": "tide",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:condensed_tide": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "tide_capacity",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.tide_capacity.tide",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:condensed_tide": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "tide_capacity",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N04.rhythm.dragon",
+    "route": "dragon",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:dragonbound_ingot": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "rhythm",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.rhythm.dragon",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:dragon_essence": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "rhythm",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N04.rhythm.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:resonant_bone": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "rhythm",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.rhythm.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "rhythm",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N04.rhythm.tide",
+    "route": "tide",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:tideforged_copper": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "rhythm",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.rhythm.tide",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:condensed_tide": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "rhythm",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N01.homing.dragon",
+    "route": "dragon",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:dragon_essence": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "homing",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.homing.dragon",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:dragon_essence": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "homing",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N03.mirror.tide",
+    "route": "tide",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:condensed_tide": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "mirror",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.mirror.tide",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:condensed_tide": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "mirror",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N02.overtone.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:echo_dust": 4,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "overtone",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.overtone.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "overtone",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N04.cushion.dragon",
+    "route": "dragon",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:dragonbound_ingot": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "cushion",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.cushion.dragon",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:dragon_essence": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "cushion",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N04.cushion.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:resonant_bone": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "cushion",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.cushion.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "cushion",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N04.cushion.tide",
+    "route": "tide",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:tideforged_copper": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "cushion",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.cushion.tide",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:condensed_tide": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "cushion",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N06.cruise.dragon",
+    "route": "dragon",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:endmarrow_ingot": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "cruise",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.cruise.dragon",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:dragon_essence": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "cruise",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N06.smelting.echo",
+    "route": "echo",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:endmarrow_ingot": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "smelting",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.smelting.echo",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:echo_dust": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "smelting",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N06.prospecting.tide",
+    "route": "tide",
+    "ticks": 200,
+    "inputs": {
+      "minecraft:book": 1,
+      "lynxrelics:endmarrow_ingot": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "minecraft:lapis_lazuli": 4
+    },
+    "outputs": {},
+    "mode": "book",
+    "enchantment": "prospecting",
+    "bookLevel": 1,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "N05.prospecting.tide",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "minecraft:enchanted_book": 1,
+      "lynxrelics:dragonheart_prism": 1,
+      "lynxrelics:condensed_tide": 8
+    },
+    "outputs": {},
+    "mode": "upgrade_book",
+    "enchantment": "prospecting",
+    "bookLevel": 2,
+    "generated": "enchantments-v1"
+  },
+  {
+    "id": "D12.dragonthroat_gauntlet.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonthroat_gauntlet": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:dragonthroat_gauntlet",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.dragonthroat_gauntlet.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonthroat_gauntlet": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:dragonthroat_gauntlet",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D12.dragonthroat_gauntlet.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonthroat_gauntlet": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:dragonthroat_gauntlet",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.dragonthroat_gauntlet.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonthroat_gauntlet": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:dragonthroat_gauntlet",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D12.rift_blade.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:rift_blade": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:rift_blade",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.rift_blade.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:rift_blade": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:rift_blade",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D12.rift_blade.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:rift_blade": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:rift_blade",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.rift_blade.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:rift_blade": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:rift_blade",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D12.dragonwing_cloak.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonwing_cloak": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:dragonwing_cloak",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.dragonwing_cloak.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonwing_cloak": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:dragonwing_cloak",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D12.dragonwing_cloak.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonwing_cloak": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:dragonwing_cloak",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.dragonwing_cloak.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:dragonwing_cloak": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:dragonwing_cloak",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D12.homing_dragon_necklace.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:homing_dragon_necklace": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:homing_dragon_necklace",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.homing_dragon_necklace.a",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:homing_dragon_necklace": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:homing_dragon_necklace",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D12.homing_dragon_necklace.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:homing_dragon_necklace": 1,
+      "lynxrelics:dragon_essence": 4,
+      "lynxrelics:shed_dragon_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:homing_dragon_necklace",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "D13.homing_dragon_necklace.b",
+    "route": "dragon",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:homing_dragon_necklace": 1,
+      "lynxrelics:dragon_essence": 2,
+      "lynxrelics:shed_dragon_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:homing_dragon_necklace",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.echo_shield.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:echo_shield": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:echo_shield",
+    "specialization": "a",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.echo_shield.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:echo_shield": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:echo_shield",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.echo_shield.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:echo_shield": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:echo_shield",
+    "specialization": "b",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.echo_shield.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:echo_shield": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:echo_shield",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.resonant_bow.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonant_bow": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:resonant_bow",
+    "specialization": "a",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.resonant_bow.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonant_bow": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:resonant_bow",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.resonant_bow.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonant_bow": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:resonant_bow",
+    "specialization": "b",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.resonant_bow.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonant_bow": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:resonant_bow",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.silent_belt.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:silent_belt": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:silent_belt",
+    "specialization": "a",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.silent_belt.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:silent_belt": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:silent_belt",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.silent_belt.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:silent_belt": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:silent_belt",
+    "specialization": "b",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.silent_belt.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:silent_belt": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:silent_belt",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.resonance_box.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonance_box": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:resonance_box",
+    "specialization": "a",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.resonance_box.a",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonance_box": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:resonance_box",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E09.resonance_box.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonance_box": 1,
+      "lynxrelics:echo_dust": 4,
+      "lynxrelics:moth_scale": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:resonance_box",
+    "specialization": "b",
+    "catalyst": "lynxrelics:keeper_shard",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "E10.resonance_box.b",
+    "route": "echo",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:resonance_box": 1,
+      "lynxrelics:echo_dust": 2,
+      "lynxrelics:moth_scale": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:resonance_box",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.tide_spear.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_spear": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:tide_spear",
+    "specialization": "a",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.tide_spear.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_spear": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:tide_spear",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.tide_spear.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_spear": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:tide_spear",
+    "specialization": "b",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.tide_spear.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_spear": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:tide_spear",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.undertow_cloak.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:undertow_cloak": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:undertow_cloak",
+    "specialization": "a",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.undertow_cloak.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:undertow_cloak": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:undertow_cloak",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.undertow_cloak.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:undertow_cloak": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:undertow_cloak",
+    "specialization": "b",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.undertow_cloak.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:undertow_cloak": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:undertow_cloak",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.tide_conch.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_conch": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:tide_conch",
+    "specialization": "a",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.tide_conch.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_conch": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:tide_conch",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.tide_conch.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_conch": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:tide_conch",
+    "specialization": "b",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.tide_conch.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:tide_conch": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:tide_conch",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.watermirror_necklace.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:watermirror_necklace": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:watermirror_necklace",
+    "specialization": "a",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.watermirror_necklace.a",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:watermirror_necklace": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:watermirror_necklace",
+    "specialization": "a",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T09.watermirror_necklace.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:watermirror_necklace": 1,
+      "lynxrelics:condensed_tide": 4,
+      "lynxrelics:jelly_pearl": 2
+    },
+    "outputs": {},
+    "mode": "specialize",
+    "gear": "lynxrelics:watermirror_necklace",
+    "specialization": "b",
+    "catalyst": "lynxrelics:reef_shell",
+    "generated": "specializations-v1"
+  },
+  {
+    "id": "T10.watermirror_necklace.b",
+    "route": "tide",
+    "ticks": 400,
+    "inputs": {
+      "lynxrelics:watermirror_necklace": 1,
+      "lynxrelics:condensed_tide": 2,
+      "lynxrelics:jelly_pearl": 1
+    },
+    "outputs": {},
+    "mode": "respecialize",
+    "gear": "lynxrelics:watermirror_necklace",
+    "specialization": "b",
+    "catalyst": "",
+    "generated": "specializations-v1"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "lynxrelics:item/resonant_bow_pulling_2_icon"
+  }
+}

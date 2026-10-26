@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:dragonbound_ingot",
+    "lynxrelics:dragonbound_ingot",
+    "minecraft:leather",
+    "minecraft:leather",
+    "minecraft:leather",
+    "minecraft:leather",
+    "lynxrelics:dragon_essence"
+  ],
+  "result": {
+    "id": "lynxrelics:dragonbound_belt",
+    "count": 1
+  }
+}

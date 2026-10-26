@@ -1,0 +1,148 @@
+{
+  "variants": {
+    "shape=north_south,speed=0": {
+      "model": "lynxrelics:block/speed_rail"
+    },
+    "shape=north_south,speed=1": {
+      "model": "lynxrelics:block/speed_rail"
+    },
+    "shape=north_south,speed=2": {
+      "model": "lynxrelics:block/speed_rail"
+    },
+    "shape=north_south,speed=3": {
+      "model": "lynxrelics:block/speed_rail"
+    },
+    "shape=east_west,speed=0": {
+      "model": "lynxrelics:block/speed_rail",
+      "y": 90
+    },
+    "shape=east_west,speed=1": {
+      "model": "lynxrelics:block/speed_rail",
+      "y": 90
+    },
+    "shape=east_west,speed=2": {
+      "model": "lynxrelics:block/speed_rail",
+      "y": 90
+    },
+    "shape=east_west,speed=3": {
+      "model": "lynxrelics:block/speed_rail",
+      "y": 90
+    },
+    "shape=ascending_east,speed=0": {
+      "model": "lynxrelics:block/speed_rail_raised_ne",
+      "y": 90
+    },
+    "shape=ascending_east,speed=1": {
+      "model": "lynxrelics:block/speed_rail_raised_ne",
+      "y": 90
+    },
+    "shape=ascending_east,speed=2": {
+      "model": "lynxrelics:block/speed_rail_raised_ne",
+      "y": 90
+    },
+    "shape=ascending_east,speed=3": {
+      "model": "lynxrelics:block/speed_rail_raised_ne",
+      "y": 90
+    },
+    "shape=ascending_west,speed=0": {
+      "model": "lynxrelics:block/speed_rail_raised_sw",
+      "y": 90
+    },
+    "shape=ascending_west,speed=1": {
+      "model": "lynxrelics:block/speed_rail_raised_sw",
+      "y": 90
+    },
+    "shape=ascending_west,speed=2": {
+      "model": "lynxrelics:block/speed_rail_raised_sw",
+      "y": 90
+    },
+    "shape=ascending_west,speed=3": {
+      "model": "lynxrelics:block/speed_rail_raised_sw",
+      "y": 90
+    },
+    "shape=ascending_north,speed=0": {
+      "model": "lynxrelics:block/speed_rail_raised_ne"
+    },
+    "shape=ascending_north,speed=1": {
+      "model": "lynxrelics:block/speed_rail_raised_ne"
+    },
+    "shape=ascending_north,speed=2": {
+      "model": "lynxrelics:block/speed_rail_raised_ne"
+    },
+    "shape=ascending_north,speed=3": {
+      "model": "lynxrelics:block/speed_rail_raised_ne"
+    },
+    "shape=ascending_south,speed=0": {
+      "model": "lynxrelics:block/speed_rail_raised_sw"
+    },
+    "shape=ascending_south,speed=1": {
+      "model": "lynxrelics:block/speed_rail_raised_sw"
+    },
+    "shape=ascending_south,speed=2": {
+      "model": "lynxrelics:block/speed_rail_raised_sw"
+    },
+    "shape=ascending_south,speed=3": {
+      "model": "lynxrelics:block/speed_rail_raised_sw"
+    },
+    "shape=south_east,speed=0": {
+      "model": "lynxrelics:block/speed_rail_curved"
+    },
+    "shape=south_east,speed=1": {
+      "model": "lynxrelics:block/speed_rail_curved"
+    },
+    "shape=south_east,speed=2": {
+      "model": "lynxrelics:block/speed_rail_curved"
+    },
+    "shape=south_east,speed=3": {
+      "model": "lynxrelics:block/speed_rail_curved"
+    },
+    "shape=south_west,speed=0": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 90
+    },
+    "shape=south_west,speed=1": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 90
+    },
+    "shape=south_west,speed=2": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 90
+    },
+    "shape=south_west,speed=3": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 90
+    },
+    "shape=north_west,speed=0": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 180
+    },
+    "shape=north_west,speed=1": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 180
+    },
+    "shape=north_west,speed=2": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 180
+    },
+    "shape=north_west,speed=3": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 180
+    },
+    "shape=north_east,speed=0": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 270
+    },
+    "shape=north_east,speed=1": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 270
+    },
+    "shape=north_east,speed=2": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 270
+    },
+    "shape=north_east,speed=3": {
+      "model": "lynxrelics:block/speed_rail_curved",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "description": {
+    "translate": "enchantment.lynxrelics.resonant_guard"
+  },
+  "supported_items": "#lynxrelics:enchantable/shield",
+  "primary_items": "#lynxrelics:enchantable/shield",
+  "weight": 5,
+  "max_level": 3,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "any"
+  ],
+  "effects": {},
+  "exclusive_set": "#lynxrelics:exclusive/guard"
+}

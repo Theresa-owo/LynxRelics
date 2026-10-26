@@ -1,0 +1,8 @@
+.gradle/
+.kotlin/
+build/
+deliverables/
+.local/
+run/
+*.log
+node_modules/

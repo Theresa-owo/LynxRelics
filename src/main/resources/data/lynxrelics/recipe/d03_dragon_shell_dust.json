@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:dragon_egg"
+  ],
+  "result": {
+    "id": "lynxrelics:dragon_shell_dust",
+    "count": 8
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lynxrelics:endforged_helmet",
+    "lynxrelics:endforged_chestplate",
+    "lynxrelics:endforged_leggings",
+    "lynxrelics:endforged_boots"
+  ]
+}

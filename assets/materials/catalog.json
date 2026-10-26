@@ -1,0 +1,13 @@
+{
+  "metal_dragon":"source/metal_dragon-v1.png",
+  "metal_echo":"source/metal_echo-v1.png",
+  "metal_tide":"source/metal_tide-v1.png",
+  "metal_endforged":"source/metal_endforged-v1.png",
+  "bone":"source/bone-v1.png",
+  "wood":"source/wood-v1.png",
+  "stone":"source/stone-v1.png",
+  "cloth_dragon":"source/cloth_dragon-v1.png",
+  "cloth_echo":"source/cloth_echo-v1.png",
+  "cloth_tide":"source/cloth_tide-v1.png",
+  "ore_endmarrow":"source/ore_endmarrow-v1.png"
+}

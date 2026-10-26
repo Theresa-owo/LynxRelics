@@ -1,0 +1,22 @@
+{
+  "description": {
+    "translate": "enchantment.lynxrelics.breath_capacity"
+  },
+  "supported_items": "#lynxrelics:enchantable/dragon_belt",
+  "primary_items": "#lynxrelics:enchantable/dragon_belt",
+  "weight": 5,
+  "max_level": 3,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "any"
+  ],
+  "effects": {}
+}

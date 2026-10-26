@@ -1,0 +1,22 @@
+{
+  "description": {
+    "translate": "enchantment.lynxrelics.long_resonance"
+  },
+  "supported_items": "#lynxrelics:enchantable/ranged",
+  "primary_items": "#lynxrelics:enchantable/ranged",
+  "weight": 5,
+  "max_level": 2,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "any"
+  ],
+  "effects": {}
+}

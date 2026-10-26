@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "lynxrelics:magnetic_ring",
+    "count": 1
+  }
+}

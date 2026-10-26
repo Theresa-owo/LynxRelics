@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:dragonbound_ingot",
+    "lynxrelics:dragonbound_ingot",
+    "minecraft:ender_eye",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "lynxrelics:homing_dragon_necklace",
+    "count": 1
+  }
+}

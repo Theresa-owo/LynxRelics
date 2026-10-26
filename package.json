@@ -1,0 +1,13 @@
+{
+  "name": "lynxrelics-assets",
+  "private": true,
+  "version": "0.2.0",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "scripts": {
+    "assets": "node scripts/generate-assets.mjs --gray",
+    "compile-icons": "node scripts/compile-icons.mjs",
+    "enchantments": "node scripts/generate-enchantments.mjs"
+  },
+  "devDependencies": {"sharp": "0.35.5"}
+}

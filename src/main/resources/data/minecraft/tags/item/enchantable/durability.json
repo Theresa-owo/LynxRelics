@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "lynxrelics:endforged_helmet",
+    "lynxrelics:endforged_chestplate",
+    "lynxrelics:endforged_leggings",
+    "lynxrelics:endforged_boots",
+    "lynxrelics:endforged_sword",
+    "lynxrelics:endforged_pickaxe",
+    "lynxrelics:endforged_axe",
+    "lynxrelics:endforged_shovel",
+    "lynxrelics:endforged_hoe"
+  ]
+}

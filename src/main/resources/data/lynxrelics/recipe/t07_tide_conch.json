@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "minecraft:nautilus_shell",
+    "lynxrelics:condensed_tide",
+    "lynxrelics:condensed_tide",
+    "minecraft:amethyst_shard",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "lynxrelics:tide_conch",
+    "count": 1
+  }
+}

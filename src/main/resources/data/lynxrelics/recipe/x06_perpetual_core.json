@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:rift_emblem",
+    "lynxrelics:endmarrow_ingot",
+    "lynxrelics:endmarrow_ingot",
+    "lynxrelics:dragon_essence",
+    "lynxrelics:dragon_essence",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "lynxrelics:condensed_tide",
+    "lynxrelics:condensed_tide"
+  ],
+  "result": {
+    "id": "lynxrelics:perpetual_core",
+    "count": 1
+  }
+}

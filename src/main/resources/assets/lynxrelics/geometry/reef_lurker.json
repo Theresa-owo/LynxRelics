@@ -1,0 +1,903 @@
+{
+  "textureSize": 128,
+  "coordinateSystem": "Minecraft model units; Y down, ground at 24",
+  "bones": [
+    {
+      "name": "body",
+      "pivot": [
+        0,
+        18,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "body",
+          "from": [
+            -10,
+            13,
+            -8
+          ],
+          "to": [
+            10,
+            23,
+            8
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "shell",
+          "from": [
+            -12,
+            9,
+            -10
+          ],
+          "to": [
+            12,
+            17,
+            10
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "shell_top",
+          "from": [
+            -9,
+            6,
+            -7
+          ],
+          "to": [
+            9,
+            11,
+            7
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "shell_ridge",
+          "from": [
+            -4,
+            5,
+            -5
+          ],
+          "to": [
+            4,
+            8,
+            5
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "root"
+    },
+    {
+      "name": "head",
+      "pivot": [
+        0,
+        17,
+        -8
+      ],
+      "cubes": [
+        {
+          "name": "head",
+          "from": [
+            -5,
+            15,
+            -13
+          ],
+          "to": [
+            5,
+            20,
+            -7
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "eye_l",
+          "from": [
+            -4,
+            13,
+            -11
+          ],
+          "to": [
+            -3,
+            15,
+            -10
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        },
+        {
+          "name": "eye_r",
+          "from": [
+            3,
+            13,
+            -11
+          ],
+          "to": [
+            4,
+            15,
+            -10
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            96
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "claw_left",
+      "pivot": [
+        -8,
+        14,
+        -6
+      ],
+      "cubes": [
+        {
+          "name": "arm",
+          "from": [
+            -14,
+            13,
+            -12
+          ],
+          "to": [
+            -8,
+            17,
+            -5
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "upper_claw",
+          "from": [
+            -15,
+            11,
+            -18
+          ],
+          "to": [
+            -9,
+            15,
+            -10
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        },
+        {
+          "name": "lower_claw",
+          "from": [
+            -15,
+            17,
+            -17
+          ],
+          "to": [
+            -9,
+            19,
+            -10
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "leg_-1_0",
+      "pivot": [
+        -10,
+        19,
+        -1
+      ],
+      "cubes": [
+        {
+          "name": "upper",
+          "from": [
+            -15,
+            19,
+            -2
+          ],
+          "to": [
+            -10,
+            21,
+            0
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "lower",
+          "from": [
+            -15,
+            20,
+            -2
+          ],
+          "to": [
+            -13,
+            24,
+            0
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "leg_-1_1",
+      "pivot": [
+        -10,
+        19,
+        6
+      ],
+      "cubes": [
+        {
+          "name": "upper",
+          "from": [
+            -15,
+            19,
+            5
+          ],
+          "to": [
+            -10,
+            21,
+            7
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "lower",
+          "from": [
+            -15,
+            20,
+            5
+          ],
+          "to": [
+            -13,
+            24,
+            7
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_-1_0",
+      "pivot": [
+        -10,
+        12,
+        -8
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -12,
+            10,
+            -9
+          ],
+          "to": [
+            -8,
+            14,
+            -6
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_-1_1",
+      "pivot": [
+        -10,
+        12,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -12,
+            10,
+            -5
+          ],
+          "to": [
+            -8,
+            14,
+            -2
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_-1_2",
+      "pivot": [
+        -10,
+        12,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -12,
+            10,
+            -1
+          ],
+          "to": [
+            -8,
+            14,
+            2
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_-1_3",
+      "pivot": [
+        -10,
+        12,
+        4
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -12,
+            10,
+            3
+          ],
+          "to": [
+            -8,
+            14,
+            6
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_-1_4",
+      "pivot": [
+        -10,
+        12,
+        8
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            -12,
+            10,
+            7
+          ],
+          "to": [
+            -8,
+            14,
+            10
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "claw_right",
+      "pivot": [
+        8,
+        14,
+        -6
+      ],
+      "cubes": [
+        {
+          "name": "arm",
+          "from": [
+            8,
+            13,
+            -12
+          ],
+          "to": [
+            14,
+            17,
+            -5
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "upper_claw",
+          "from": [
+            9,
+            11,
+            -18
+          ],
+          "to": [
+            15,
+            15,
+            -10
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        },
+        {
+          "name": "lower_claw",
+          "from": [
+            9,
+            17,
+            -17
+          ],
+          "to": [
+            15,
+            19,
+            -10
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "leg_1_0",
+      "pivot": [
+        10,
+        19,
+        -1
+      ],
+      "cubes": [
+        {
+          "name": "upper",
+          "from": [
+            10,
+            19,
+            -2
+          ],
+          "to": [
+            15,
+            21,
+            0
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "lower",
+          "from": [
+            13,
+            20,
+            -2
+          ],
+          "to": [
+            15,
+            24,
+            0
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "leg_1_1",
+      "pivot": [
+        10,
+        19,
+        6
+      ],
+      "cubes": [
+        {
+          "name": "upper",
+          "from": [
+            10,
+            19,
+            5
+          ],
+          "to": [
+            15,
+            21,
+            7
+          ],
+          "material": "body",
+          "uv": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "lower",
+          "from": [
+            13,
+            20,
+            5
+          ],
+          "to": [
+            15,
+            24,
+            7
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_1_0",
+      "pivot": [
+        10,
+        12,
+        -8
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            8,
+            10,
+            -9
+          ],
+          "to": [
+            12,
+            14,
+            -6
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_1_1",
+      "pivot": [
+        10,
+        12,
+        -4
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            8,
+            10,
+            -5
+          ],
+          "to": [
+            12,
+            14,
+            -2
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_1_2",
+      "pivot": [
+        10,
+        12,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            8,
+            10,
+            -1
+          ],
+          "to": [
+            12,
+            14,
+            2
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_1_3",
+      "pivot": [
+        10,
+        12,
+        4
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            8,
+            10,
+            3
+          ],
+          "to": [
+            12,
+            14,
+            6
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_piece_1_4",
+      "pivot": [
+        10,
+        12,
+        8
+      ],
+      "cubes": [
+        {
+          "name": "plate",
+          "from": [
+            8,
+            10,
+            7
+          ],
+          "to": [
+            12,
+            14,
+            10
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_edge_-1",
+      "pivot": [
+        -8,
+        9,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "edge",
+          "from": [
+            -9,
+            8,
+            -8
+          ],
+          "to": [
+            -7,
+            10,
+            8
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    },
+    {
+      "name": "shell_edge_1",
+      "pivot": [
+        8,
+        9,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "edge",
+          "from": [
+            7,
+            8,
+            -8
+          ],
+          "to": [
+            9,
+            10,
+            8
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            64
+          ]
+        }
+      ],
+      "parent": "body"
+    }
+  ],
+  "animations": [
+    {
+      "name": "idle",
+      "length": 1.6,
+      "loop": true,
+      "tracks": [
+        {
+          "bone": "body",
+          "channel": "position",
+          "axis": "y",
+          "values": [
+            0,
+            -0.25,
+            0,
+            0.25,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "windup",
+      "length": 1,
+      "loop": false,
+      "tracks": [
+        {
+          "bone": "claw_left",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            0,
+            -10,
+            -20,
+            -25,
+            -25
+          ]
+        },
+        {
+          "bone": "claw_right",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            0,
+            -10,
+            -20,
+            -25,
+            -25
+          ]
+        }
+      ]
+    },
+    {
+      "name": "strike",
+      "length": 0.4,
+      "loop": false,
+      "tracks": [
+        {
+          "bone": "claw_left",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -25,
+            15,
+            8,
+            0,
+            0
+          ]
+        },
+        {
+          "bone": "claw_right",
+          "channel": "rotation",
+          "axis": "x",
+          "values": [
+            -25,
+            15,
+            8,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

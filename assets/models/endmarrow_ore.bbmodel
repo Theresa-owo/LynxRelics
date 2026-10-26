@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "free",
+    "box_uv": false
+  },
+  "name": "endmarrow_ore",
+  "model_identifier": "endmarrow_ore",
+  "visible_box": [
+    2,
+    3,
+    1
+  ],
+  "resolution": {
+    "width": 32,
+    "height": 32
+  },
+  "elements": [
+    {
+      "name": "ore",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            8,
+            8
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            2,
+            3,
+            10,
+            11
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            4,
+            6,
+            12,
+            14
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            6,
+            9,
+            14,
+            17
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            8,
+            12,
+            16,
+            20
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            10,
+            15,
+            18,
+            23
+          ],
+          "texture": 0
+        }
+      },
+      "type": "cube",
+      "uuid": "2a2932a5-8243-4657-8c28-6e8dea880ea0",
+      "origin": [
+        8,
+        12,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false
+    }
+  ],
+  "outliner": [
+    {
+      "name": "root",
+      "origin": [
+        8,
+        12,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "uuid": "23742f37-fd31-40dd-80f9-18e5fb50b80e",
+      "children": [
+        "2a2932a5-8243-4657-8c28-6e8dea880ea0"
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "path": "./textures/endmarrow_ore.png",
+      "name": "endmarrow_ore.png",
+      "width": 32,
+      "height": 32,
+      "uv_width": 32,
+      "uv_height": 32,
+      "uuid": "4786281d-a3df-4587-8d77-012c84a55167",
+      "id": "0",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABxElEQVR4nMWW0U3EQAxE3QIF8EEDSLSQUvigCwqhluuHNoIOydG7ydhrOCE+oot3PWNnL/s2cXn/3J8eXvbt8XV/e/7YGeeYiyvNTz1CRZpIM53TZqiZeoYmZJIWSlNn7DzUr/KIHMhBCtiIu7Rwxtfr6sVGWYONBA1zMhtR49U8C63mMyfYDRvRWIvqWDbomu5WLFzR7FRFathpeN9pggkp5FgKaOrGuq3KF1sfJnLC7e9VTMNVXP3erACBoYVpyn3M1Zh4UPfdgK5ARTdnWuXw71nlnEg4wWfVwG88TiTsENoVUvOpZ9CASU7gkM3G6KF+FbZPK0CBNlLhVEHmEK7NH6dhxf178LoNsH5wgBNTJHeYVvK5Ma56XAxOHcl4P9GovtIcK0ATirYC0RxzUHLngsP2iYQsvIqVal3Mh2NcktAhd4VXLaLNc9VuOLDCpf4lq5yuMc2J/0Lw8U1YodQhtJvXl3nqefdXcdXcFNuhHTvBCqe693kW8Gxg4eMlVDR2+PwLbJ/OggmS3ViF5NWXsyWhkowMoEGnqYqqJpxQ6ej2sSK3Q7TbipkXmqCw6eIO01NsH2fBBLkO2xVyKw/qrvdfQaCzXOsIQUUAAAAASUVORK5CYII="
+    }
+  ],
+  "animations": [
+    {
+      "uuid": "d9d050e3-ef06-404d-8db0-e71f94a13c3e",
+      "name": "idle",
+      "loop": "loop",
+      "length": 1,
+      "snapping": 20,
+      "animators": {}
+    },
+    {
+      "uuid": "1d159e7c-c3bd-4598-8d84-84789fab618d",
+      "name": "charge",
+      "loop": "once",
+      "length": 0.75,
+      "snapping": 20,
+      "animators": {}
+    },
+    {
+      "uuid": "26eedc98-407b-476b-88b4-a976ff58b3e4",
+      "name": "active",
+      "loop": "once",
+      "length": 2.4,
+      "snapping": 20,
+      "animators": {}
+    },
+    {
+      "uuid": "5bdd6876-42ac-4fd8-826c-bb2d2fe9f1a6",
+      "name": "recovery",
+      "loop": "once",
+      "length": 0.5,
+      "snapping": 20,
+      "animators": {}
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        25,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        15
+      ],
+      "translation": [
+        1,
+        1,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -15
+      ],
+      "translation": [
+        1,
+        1,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

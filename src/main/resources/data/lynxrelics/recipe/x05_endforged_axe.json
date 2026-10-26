@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "lynxrelics:endforged_template",
+  "base": "minecraft:netherite_axe",
+  "addition": "lynxrelics:endmarrow_ingot",
+  "result": {
+    "id": "lynxrelics:endforged_axe"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:prismarine_crystals"
+  ],
+  "result": {
+    "id": "lynxrelics:undertow_cloak",
+    "count": 1
+  }
+}

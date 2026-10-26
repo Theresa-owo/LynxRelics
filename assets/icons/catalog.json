@@ -1,0 +1,359 @@
+{
+  "resolution": [
+    32,
+    32
+  ],
+  "columns": 10,
+  "items": [
+    {
+      "id": "dragon_essence",
+      "column": 0,
+      "row": 0
+    },
+    {
+      "id": "dragon_shell_dust",
+      "column": 1,
+      "row": 0
+    },
+    {
+      "id": "dragonbound_ingot",
+      "column": 2,
+      "row": 0
+    },
+    {
+      "id": "shed_dragon_scale",
+      "column": 3,
+      "row": 0
+    },
+    {
+      "id": "embryo_crystal",
+      "column": 4,
+      "row": 0
+    },
+    {
+      "id": "empty_embryo_shell",
+      "column": 5,
+      "row": 0
+    },
+    {
+      "id": "echo_dust",
+      "column": 6,
+      "row": 0
+    },
+    {
+      "id": "resonant_bone",
+      "column": 7,
+      "row": 0
+    },
+    {
+      "id": "moth_scale",
+      "column": 8,
+      "row": 0
+    },
+    {
+      "id": "keeper_shard",
+      "column": 9,
+      "row": 0
+    },
+    {
+      "id": "condensed_tide",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "id": "tideforged_copper",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "id": "jelly_pearl",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "id": "reef_shell",
+      "column": 3,
+      "row": 1
+    },
+    {
+      "id": "endmarrow_scrap",
+      "column": 4,
+      "row": 1
+    },
+    {
+      "id": "endmarrow_ingot",
+      "column": 5,
+      "row": 1
+    },
+    {
+      "id": "rift_emblem",
+      "column": 6,
+      "row": 1
+    },
+    {
+      "id": "endforged_template",
+      "column": 7,
+      "row": 1
+    },
+    {
+      "id": "perpetual_core",
+      "column": 8,
+      "row": 1
+    },
+    {
+      "id": "dragonheart_prism",
+      "column": 9,
+      "row": 1
+    },
+    {
+      "id": "raid_cloak_pattern",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "id": "relic_upgrade_template",
+      "column": 1,
+      "row": 2
+    },
+    {
+      "id": "iron_rim",
+      "column": 2,
+      "row": 2
+    },
+    {
+      "id": "deflector",
+      "column": 3,
+      "row": 2
+    },
+    {
+      "id": "breaching_fitting",
+      "column": 4,
+      "row": 2
+    },
+    {
+      "id": "quickdraw_string",
+      "column": 5,
+      "row": 2
+    },
+    {
+      "id": "steady_rest",
+      "column": 6,
+      "row": 2
+    },
+    {
+      "id": "magnetic_ring",
+      "column": 7,
+      "row": 2
+    },
+    {
+      "id": "expedition_compass",
+      "column": 8,
+      "row": 2
+    },
+    {
+      "id": "stabilizing_ring",
+      "column": 9,
+      "row": 2
+    },
+    {
+      "id": "abundance_core",
+      "column": 0,
+      "row": 3
+    },
+    {
+      "id": "craftsmanship_core",
+      "column": 1,
+      "row": 3
+    },
+    {
+      "id": "shelter_core",
+      "column": 2,
+      "row": 3
+    },
+    {
+      "id": "homing_dragon_necklace",
+      "column": 3,
+      "row": 3
+    },
+    {
+      "id": "dragonbound_belt",
+      "column": 4,
+      "row": 3
+    },
+    {
+      "id": "dragonthroat_gauntlet",
+      "column": 5,
+      "row": 3
+    },
+    {
+      "id": "dragonwing_cloak",
+      "column": 6,
+      "row": 3
+    },
+    {
+      "id": "resonant_necklace",
+      "column": 7,
+      "row": 3
+    },
+    {
+      "id": "silent_belt",
+      "column": 8,
+      "row": 3
+    },
+    {
+      "id": "keeper_gauntlet",
+      "column": 9,
+      "row": 3
+    },
+    {
+      "id": "murmur_cloak",
+      "column": 0,
+      "row": 4
+    },
+    {
+      "id": "watermirror_necklace",
+      "column": 1,
+      "row": 4
+    },
+    {
+      "id": "undertow_belt",
+      "column": 2,
+      "row": 4
+    },
+    {
+      "id": "tidepull_gauntlet",
+      "column": 3,
+      "row": 4
+    },
+    {
+      "id": "undertow_cloak",
+      "column": 4,
+      "row": 4
+    },
+    {
+      "id": "rift_blade",
+      "column": 5,
+      "row": 4
+    },
+    {
+      "id": "tide_spear",
+      "column": 6,
+      "row": 4
+    },
+    {
+      "id": "echo_shield",
+      "column": 7,
+      "row": 4
+    },
+    {
+      "id": "resonant_bow",
+      "column": 8,
+      "row": 4
+    },
+    {
+      "id": "echo_arrow",
+      "column": 9,
+      "row": 4
+    },
+    {
+      "id": "scouting_arrow",
+      "column": 0,
+      "row": 5
+    },
+    {
+      "id": "foam_arrow",
+      "column": 1,
+      "row": 5
+    },
+    {
+      "id": "tide_conch",
+      "column": 2,
+      "row": 5
+    },
+    {
+      "id": "cruise_firework",
+      "column": 3,
+      "row": 5
+    },
+    {
+      "id": "bound_pearl",
+      "column": 4,
+      "row": 5
+    },
+    {
+      "id": "dragon_workstation",
+      "column": 5,
+      "row": 5
+    },
+    {
+      "id": "echo_workstation",
+      "column": 6,
+      "row": 5
+    },
+    {
+      "id": "tide_workstation",
+      "column": 7,
+      "row": 5
+    },
+    {
+      "id": "resonance_box",
+      "column": 8,
+      "row": 5
+    },
+    {
+      "id": "endmarrow_ore",
+      "column": 9,
+      "row": 5
+    },
+    {
+      "id": "speed_rail",
+      "column": 0,
+      "row": 6
+    },
+    {
+      "id": "endforged_helmet",
+      "column": 1,
+      "row": 6
+    },
+    {
+      "id": "endforged_chestplate",
+      "column": 2,
+      "row": 6
+    },
+    {
+      "id": "endforged_leggings",
+      "column": 3,
+      "row": 6
+    },
+    {
+      "id": "endforged_boots",
+      "column": 4,
+      "row": 6
+    },
+    {
+      "id": "endforged_pickaxe",
+      "column": 5,
+      "row": 6
+    },
+    {
+      "id": "endforged_axe",
+      "column": 6,
+      "row": 6
+    },
+    {
+      "id": "endforged_shovel",
+      "column": 7,
+      "row": 6
+    },
+    {
+      "id": "endforged_hoe",
+      "column": 8,
+      "row": 6
+    },
+    {
+      "id": "endforged_sword",
+      "column": 9,
+      "row": 6
+    }
+  ]
+}

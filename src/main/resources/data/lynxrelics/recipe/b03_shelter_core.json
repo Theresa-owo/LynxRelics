@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:dragon_essence",
+    "lynxrelics:dragon_essence",
+    "lynxrelics:dragon_essence",
+    "lynxrelics:dragon_essence",
+    "lynxrelics:dragonbound_ingot",
+    "lynxrelics:dragonbound_ingot",
+    "minecraft:golden_apple",
+    "minecraft:golden_apple",
+    "minecraft:phantom_membrane"
+  ],
+  "result": {
+    "id": "lynxrelics:shelter_core",
+    "count": 1
+  }
+}

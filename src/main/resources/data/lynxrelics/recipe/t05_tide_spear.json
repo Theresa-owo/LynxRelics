@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "lynxrelics:tide_spear",
+    "count": 1
+  }
+}

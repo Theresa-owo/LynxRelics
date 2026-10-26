@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "minecraft:leather",
+    "minecraft:leather",
+    "minecraft:leather",
+    "minecraft:leather",
+    "minecraft:nautilus_shell"
+  ],
+  "result": {
+    "id": "lynxrelics:undertow_belt",
+    "count": 1
+  }
+}

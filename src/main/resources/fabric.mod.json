@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "lynxrelics",
+  "version": "${version}",
+  "name": "LynxRelics · 遗珍复苏",
+  "description": "Three relic crafts, four accessory slots, End forging and encounters.",
+  "authors": ["Theresa"],
+  "license": "GPL-3.0-or-later",
+  "contact": {"homepage": "https://github.com/Theresa-owo/LynxRelics", "sources": "https://github.com/Theresa-owo/LynxRelics", "issues": "https://github.com/Theresa-owo/LynxRelics/issues"},
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.ciyuan.lynxrelics.LynxRelics"],
+    "client": ["net.ciyuan.lynxrelics.client.RelicsClient"]
+  },
+  "mixins": ["lynxrelics.mixins.json"],
+  "depends": {"fabricloader": ">=0.19.3", "minecraft": "26.3", "java": ">=25", "fabric-api": ">=0.163.0"},
+  "suggests": {"elytra-slot": "1.2"}
+}

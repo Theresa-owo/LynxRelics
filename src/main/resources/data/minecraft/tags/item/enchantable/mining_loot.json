@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lynxrelics:endforged_pickaxe",
+    "lynxrelics:endforged_axe",
+    "lynxrelics:endforged_shovel",
+    "lynxrelics:endforged_hoe"
+  ]
+}

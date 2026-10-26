@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lynxrelics:item/steady_rest_icon"
+  }
+}

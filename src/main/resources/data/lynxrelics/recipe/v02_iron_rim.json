@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:leather",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "lynxrelics:iron_rim",
+    "count": 1
+  }
+}

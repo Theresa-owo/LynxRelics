@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:dragonbound_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:leather",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "lynxrelics:breaching_fitting",
+    "count": 1
+  }
+}

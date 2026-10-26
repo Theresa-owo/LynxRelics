@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:dragonbound_ingot",
+    "lynxrelics:dragonbound_ingot",
+    "lynxrelics:dragonbound_ingot",
+    "lynxrelics:dragonbound_ingot",
+    "minecraft:diamond",
+    "minecraft:diamond",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "lynxrelics:rift_blade",
+    "count": 1
+  }
+}

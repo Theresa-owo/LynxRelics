@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "lynxrelics:relic_upgrade_template",
+  "base": "minecraft:shield",
+  "addition": "lynxrelics:iron_rim",
+  "result": {
+    "id": "minecraft:shield"
+  }
+}

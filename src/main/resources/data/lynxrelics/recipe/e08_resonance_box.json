@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:resonant_bone",
+    "lynxrelics:resonant_bone",
+    "minecraft:jukebox",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "minecraft:redstone",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "lynxrelics:resonance_box",
+    "count": 1
+  }
+}

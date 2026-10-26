@@ -1,0 +1,130 @@
+[
+  {
+    "id": "breach",
+    "zh": "破界",
+    "en": "Breach",
+    "max": 3,
+    "target": "melee",
+    "route": "dragon"
+  },
+  {
+    "id": "echo",
+    "zh": "回声",
+    "en": "Echo",
+    "max": 2,
+    "target": "melee",
+    "route": "echo"
+  },
+  {
+    "id": "tide_conduction",
+    "zh": "导潮",
+    "en": "Tide Conduction",
+    "max": 3,
+    "target": "melee",
+    "route": "tide"
+  },
+  {
+    "id": "long_resonance",
+    "zh": "长鸣",
+    "en": "Long Resonance",
+    "max": 2,
+    "target": "ranged",
+    "route": "echo"
+  },
+  {
+    "id": "resonant_guard",
+    "zh": "镇响",
+    "en": "Resonant Guard",
+    "max": 3,
+    "target": "shield",
+    "route": "echo"
+  },
+  {
+    "id": "bulwark",
+    "zh": "固守",
+    "en": "Bulwark",
+    "max": 3,
+    "target": "shield",
+    "route": "echo"
+  },
+  {
+    "id": "breath_capacity",
+    "zh": "容息",
+    "en": "Breath Capacity",
+    "max": 3,
+    "target": "dragon_belt",
+    "route": "dragon"
+  },
+  {
+    "id": "tide_capacity",
+    "zh": "蓄潮",
+    "en": "Tide Capacity",
+    "max": 3,
+    "target": "tide_belt",
+    "route": "tide"
+  },
+  {
+    "id": "rhythm",
+    "zh": "节律",
+    "en": "Rhythm",
+    "max": 3,
+    "target": "gauntlet",
+    "route": "any"
+  },
+  {
+    "id": "homing",
+    "zh": "归巢",
+    "en": "Homing",
+    "max": 2,
+    "target": "homing_necklace",
+    "route": "dragon"
+  },
+  {
+    "id": "mirror",
+    "zh": "明镜",
+    "en": "Clear Mirror",
+    "max": 2,
+    "target": "mirror_necklace",
+    "route": "tide"
+  },
+  {
+    "id": "overtone",
+    "zh": "余韵",
+    "en": "Overtone",
+    "max": 2,
+    "target": "echo_necklace",
+    "route": "echo"
+  },
+  {
+    "id": "cushion",
+    "zh": "缓冲",
+    "en": "Cushion",
+    "max": 3,
+    "target": "cloak",
+    "route": "any"
+  },
+  {
+    "id": "cruise",
+    "zh": "巡航",
+    "en": "Cruise",
+    "max": 3,
+    "target": "elytra",
+    "route": "dragon"
+  },
+  {
+    "id": "smelting",
+    "zh": "精炼",
+    "en": "Smelting",
+    "max": 2,
+    "target": "tool",
+    "route": "echo"
+  },
+  {
+    "id": "prospecting",
+    "zh": "寻脉",
+    "en": "Prospecting",
+    "max": 2,
+    "target": "end_pickaxe",
+    "route": "tide"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:echo_shard",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block"
+  ],
+  "result": {
+    "id": "lynxrelics:craftsmanship_core",
+    "count": 1
+  }
+}

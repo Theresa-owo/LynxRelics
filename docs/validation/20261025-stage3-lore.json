@@ -1,0 +1,52 @@
+{
+  "minecraft": "26.3",
+  "stage": "isolated-server-component-probe",
+  "passed": true,
+  "checks": [
+    {
+      "name": "player_mixin_and_elytra_exact_interface",
+      "passed": true
+    },
+    {
+      "name": "D02_atomic_materials_bottles_catalyst",
+      "passed": true
+    },
+    {
+      "name": "full_outputs_are_noop_even_when_some_outputs_could_fit",
+      "passed": true
+    },
+    {
+      "name": "tide_returns_one_empty_bucket",
+      "passed": true
+    },
+    {
+      "name": "accessory_slot_types_and_vanilla_inventory_unchanged",
+      "passed": true
+    },
+    {
+      "name": "shift_click_full_inventory_preserves_accessory",
+      "passed": true
+    },
+    {
+      "name": "persistent_resources_cooldowns_and_four_slots_roundtrip",
+      "passed": true
+    },
+    {
+      "name": "dragon_actual_3000_health_and_reload_preserves_encounter",
+      "passed": true
+    },
+    {
+      "name": "endforged_actual_durability_and_smithing_component_retention",
+      "passed": true
+    },
+    {
+      "name": "both_vanilla_minecart_behaviors_read_speed_rail",
+      "passed": true
+    },
+    {
+      "name": "every_registered_item_has_native_lore",
+      "passed": true
+    }
+  ],
+  "realClientAcceptance": false
+}

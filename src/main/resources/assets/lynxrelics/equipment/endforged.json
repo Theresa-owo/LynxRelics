@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "lynxrelics:endforged"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "lynxrelics:endforged"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "lynxrelics:endforged"
+      }
+    ]
+  }
+}

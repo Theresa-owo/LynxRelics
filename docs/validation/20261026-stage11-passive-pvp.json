@@ -1,0 +1,180 @@
+{
+  "minecraft": "26.3",
+  "stage": "isolated-server-component-probe",
+  "passed": true,
+  "checks": [
+    {
+      "name": "player_mixin_and_elytra_exact_interface",
+      "passed": true
+    },
+    {
+      "name": "D02_atomic_materials_bottles_catalyst",
+      "passed": true
+    },
+    {
+      "name": "full_outputs_are_noop_even_when_some_outputs_could_fit",
+      "passed": true
+    },
+    {
+      "name": "tide_returns_one_empty_bucket",
+      "passed": true
+    },
+    {
+      "name": "accessory_slot_types_and_vanilla_inventory_unchanged",
+      "passed": true
+    },
+    {
+      "name": "shift_click_full_inventory_preserves_accessory",
+      "passed": true
+    },
+    {
+      "name": "persistent_resources_cooldowns_and_four_slots_roundtrip",
+      "passed": true
+    },
+    {
+      "name": "dragon_actual_3000_health_and_reload_preserves_encounter",
+      "passed": true
+    },
+    {
+      "name": "endforged_actual_durability_and_smithing_component_retention",
+      "passed": true
+    },
+    {
+      "name": "both_vanilla_minecart_behaviors_read_speed_rail",
+      "passed": true
+    },
+    {
+      "name": "every_registered_item_has_native_lore",
+      "passed": true
+    },
+    {
+      "name": "all_seven_mobs_have_actual_design_attributes",
+      "passed": true
+    },
+    {
+      "name": "brood_encounter_health_is_distinct_and_locked_and_saved",
+      "passed": true
+    },
+    {
+      "name": "one_companion_per_owner_without_loading_other_dimensions",
+      "passed": true
+    },
+    {
+      "name": "six_pulses_are_six_hits_and_do_not_bypass_armor",
+      "passed": true
+    },
+    {
+      "name": "book_craft_and_specialization_keep_atomic_output_and_item_data",
+      "passed": true
+    },
+    {
+      "name": "enchantment_targets_and_exclusivity_are_native",
+      "passed": true
+    },
+    {
+      "name": "quiet_state_packet_roundtrip_consumes_exact_payload",
+      "passed": true
+    },
+    {
+      "name": "actual_elytra_provider_survives_cloak_broken_and_repaired_wings",
+      "passed": true
+    },
+    {
+      "name": "accessories_enter_native_mending_selection_without_armor_effects",
+      "passed": true
+    },
+    {
+      "name": "timed_workstation_reload_resumes_once_and_keeps_catalyst_and_bottles",
+      "passed": true
+    },
+    {
+      "name": "smelting_hook_uses_real_ore_loot_and_exactly_one_extra_wear",
+      "passed": true
+    },
+    {
+      "name": "beacon_core_persists_and_rejects_fuel_without_valid_pyramid",
+      "passed": true
+    },
+    {
+      "name": "resonator_pickup_roundtrip_keeps_disc_fuel_mode_and_specialization",
+      "passed": true
+    },
+    {
+      "name": "server_recipe_catalog_codec_preserves_all_choices_and_indices",
+      "passed": true
+    },
+    {
+      "name": "native_dragon_charge_and_three_part_combo_keep_warn_and_recovery_boundaries",
+      "passed": true
+    },
+    {
+      "name": "dragon_pending_combo_and_reward_flag_roundtrip_without_reset",
+      "passed": true
+    },
+    {
+      "name": "raid_ember_ttl_only_affects_tagged_embers",
+      "passed": true
+    },
+    {
+      "name": "dry_channeling_uses_native_rod_and_sky_conditions_and_restores_weather_context",
+      "passed": true
+    },
+    {
+      "name": "native_riptide_use_and_release_work_in_clear_dry_air",
+      "passed": true
+    },
+    {
+      "name": "release_in_the_same_server_tick_cancels_charge_without_spending",
+      "passed": true
+    },
+    {
+      "name": "wave_corridor_stops_at_real_blocks_and_excludes_off_path_targets",
+      "passed": true
+    },
+    {
+      "name": "magnetic_ring_full_chest_owner_filter_and_four_entity_rate_are_atomic",
+      "passed": true
+    },
+    {
+      "name": "only_defined_specializations_are_offered_and_lore_describes_the_branch",
+      "passed": true
+    },
+    {
+      "name": "real_elytra_death_callback_legacy_abi_keepinventory_and_vanishing",
+      "passed": true
+    },
+    {
+      "name": "endforged_magic_source_armor_resistance_and_boosted_attack_attributes",
+      "passed": true
+    },
+    {
+      "name": "dragon_phase_two_three_empty_encounter_does_not_leave_hover_or_override_perching",
+      "passed": true
+    },
+    {
+      "name": "skill_resource_failure_is_explained_and_tide_gauntlet_actually_spends_and_cools",
+      "passed": true
+    },
+    {
+      "name": "offhand_wave_uses_its_own_weapon_and_reaches_a_real_hostile_target",
+      "passed": true
+    },
+    {
+      "name": "mainhand_skill_yields_to_offhand_shield_and_weapon_key_still_charges",
+      "passed": true
+    },
+    {
+      "name": "three_necklace_actives_enter_their_real_channel_lure_or_reflection_state",
+      "passed": true
+    },
+    {
+      "name": "owned_lore_refresh_keeps_custom_text_name_damage_and_specialization",
+      "passed": true
+    },
+    {
+      "name": "disabled_relic_pvp_does_not_charge_defensive_passives_from_players",
+      "passed": true
+    }
+  ],
+  "realClientAcceptance": false
+}

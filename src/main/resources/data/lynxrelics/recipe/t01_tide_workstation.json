@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:glass",
+    "minecraft:glass",
+    "minecraft:nautilus_shell"
+  ],
+  "result": {
+    "id": "lynxrelics:tide_workstation",
+    "count": 1
+  }
+}

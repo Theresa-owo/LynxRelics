@@ -1,0 +1,32 @@
+[
+  {
+    "id": "resonant_bow_pulling_0",
+    "source": "assets/icons/source/resonant_bow_pulling_0-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "e5739db1a2126bcbc12e016fa939c5a3981832ab4d7c2bbf391dfefd799945cc",
+    "runtimeSha256": "1aa09a8c79b825501bb9df01aeabd07d001c8457a0f71c14f4d76e034d54f163"
+  },
+  {
+    "id": "resonant_bow_pulling_1",
+    "source": "assets/icons/source/resonant_bow_pulling_1-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "6ec36a9ec4f4dcaf16ca34948fd74a9b29f26737e49bdd3c7d37674c2ec69b17",
+    "runtimeSha256": "38568dbbc48eee60bbf34094ea0695d5f14d017edaa442905b445059e436642f"
+  },
+  {
+    "id": "resonant_bow_pulling_2",
+    "source": "assets/icons/source/resonant_bow_pulling_2-v2.png",
+    "resolution": [
+      64,
+      64
+    ],
+    "sourceSha256": "9566ee51b6182d2fdfcb9f56e57a32caeab4d20554ff0b6a44fc0b3f5ccccb54",
+    "runtimeSha256": "2db5999bd05bb2296a63a4c4427a9a79c63af54dcbbd4273744a3b8a7fc06182"
+  }
+]

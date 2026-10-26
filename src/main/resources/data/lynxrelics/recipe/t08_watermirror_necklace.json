@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:tideforged_copper",
+    "lynxrelics:tideforged_copper",
+    "minecraft:glass",
+    "minecraft:glass",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "lynxrelics:condensed_tide"
+  ],
+  "result": {
+    "id": "lynxrelics:watermirror_necklace",
+    "count": 1
+  }
+}

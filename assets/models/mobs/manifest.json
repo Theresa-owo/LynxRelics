@@ -1,0 +1,107 @@
+[
+  {
+    "id": "dragon_wisp",
+    "bones": 17,
+    "cuboids": 26,
+    "texture": [
+      64,
+      64
+    ],
+    "animations": [
+      "idle",
+      "windup",
+      "strike"
+    ],
+    "phase": "textured"
+  },
+  {
+    "id": "echo_moth",
+    "bones": 12,
+    "cuboids": 15,
+    "texture": [
+      64,
+      64
+    ],
+    "animations": [
+      "idle",
+      "windup",
+      "strike"
+    ],
+    "phase": "textured"
+  },
+  {
+    "id": "tide_jelly",
+    "bones": 19,
+    "cuboids": 22,
+    "texture": [
+      64,
+      64
+    ],
+    "animations": [
+      "idle",
+      "windup",
+      "strike"
+    ],
+    "phase": "textured"
+  },
+  {
+    "id": "rift_hunter",
+    "bones": 16,
+    "cuboids": 32,
+    "texture": [
+      64,
+      64
+    ],
+    "animations": [
+      "idle",
+      "windup",
+      "strike"
+    ],
+    "phase": "textured"
+  },
+  {
+    "id": "reef_lurker",
+    "bones": 20,
+    "cuboids": 33,
+    "texture": [
+      128,
+      128
+    ],
+    "animations": [
+      "idle",
+      "windup",
+      "strike"
+    ],
+    "phase": "textured"
+  },
+  {
+    "id": "silent_keeper",
+    "bones": 30,
+    "cuboids": 37,
+    "texture": [
+      128,
+      128
+    ],
+    "animations": [
+      "idle",
+      "windup",
+      "strike"
+    ],
+    "phase": "textured"
+  },
+  {
+    "id": "brood_drake",
+    "bones": 49,
+    "cuboids": 66,
+    "texture": [
+      128,
+      128
+    ],
+    "animations": [
+      "idle",
+      "windup",
+      "strike"
+    ],
+    "phase": "textured"
+  }
+]

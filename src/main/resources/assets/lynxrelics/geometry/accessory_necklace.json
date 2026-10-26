@@ -1,0 +1,195 @@
+{
+  "textureSize": 64,
+  "coordinateSystem": "Minecraft units relative to the parent body/arm; Y down",
+  "attachment": "body",
+  "bones": [
+    {
+      "name": "pendant",
+      "pivot": [
+        0,
+        4,
+        -3.4
+      ],
+      "cubes": [
+        {
+          "name": "setting",
+          "from": [
+            -1.4,
+            3.5,
+            -3.8
+          ],
+          "to": [
+            1.4,
+            6.1,
+            -3.2
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        },
+        {
+          "name": "gem",
+          "from": [
+            -0.8,
+            4,
+            -4
+          ],
+          "to": [
+            0.8,
+            5.5,
+            -3.8
+          ],
+          "material": "glow",
+          "uv": [
+            0,
+            48
+          ]
+        }
+      ],
+      "parent": "root"
+    },
+    {
+      "name": "chain",
+      "pivot": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "name": "left_chain",
+          "from": [
+            -3.2,
+            0.1,
+            -3.3
+          ],
+          "to": [
+            -2.8,
+            3.4,
+            -3.05
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        },
+        {
+          "name": "right_chain",
+          "from": [
+            2.8,
+            0.1,
+            -3.3
+          ],
+          "to": [
+            3.2,
+            3.4,
+            -3.05
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        },
+        {
+          "name": "lower_l",
+          "from": [
+            -2.8,
+            3,
+            -3.3
+          ],
+          "to": [
+            -0.8,
+            3.5,
+            -3.05
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        },
+        {
+          "name": "lower_r",
+          "from": [
+            0.8,
+            3,
+            -3.3
+          ],
+          "to": [
+            2.8,
+            3.5,
+            -3.05
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        },
+        {
+          "name": "top_l",
+          "from": [
+            -3.4,
+            -0.2,
+            -2.8
+          ],
+          "to": [
+            -2.5,
+            0.2,
+            -1
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        },
+        {
+          "name": "top_r",
+          "from": [
+            2.5,
+            -0.2,
+            -2.8
+          ],
+          "to": [
+            3.4,
+            0.2,
+            -1
+          ],
+          "material": "bone",
+          "uv": [
+            0,
+            32
+          ]
+        }
+      ],
+      "parent": "root"
+    }
+  ],
+  "animations": [
+    {
+      "name": "idle",
+      "length": 1.6,
+      "loop": true
+    },
+    {
+      "name": "charge",
+      "length": 0.75,
+      "loop": false
+    },
+    {
+      "name": "active",
+      "length": 2.4,
+      "loop": false
+    },
+    {
+      "name": "recovery",
+      "length": 0.5,
+      "loop": false
+    }
+  ]
+}

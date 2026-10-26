@@ -1,0 +1,123 @@
+{
+  "phase": "textured",
+  "blockUvRange": [
+    0,
+    16
+  ],
+  "modelPartUvUnit": "pixels",
+  "armorTexture": [
+    64,
+    32
+  ],
+  "materialSources": {
+    "metal_dragon": "source/metal_dragon-v1.png",
+    "metal_echo": "source/metal_echo-v1.png",
+    "metal_tide": "source/metal_tide-v1.png",
+    "metal_endforged": "source/metal_endforged-v1.png",
+    "bone": "source/bone-v1.png",
+    "wood": "source/wood-v1.png",
+    "stone": "source/stone-v1.png",
+    "cloth_dragon": "source/cloth_dragon-v1.png",
+    "cloth_echo": "source/cloth_echo-v1.png",
+    "cloth_tide": "source/cloth_tide-v1.png",
+    "ore_endmarrow": "source/ore_endmarrow-v1.png"
+  },
+  "outputs": [
+    {
+      "id": "homing_dragon_necklace",
+      "model": "models/item/homing_dragon_necklace.json"
+    },
+    {
+      "id": "dragonbound_belt",
+      "model": "models/item/dragonbound_belt.json"
+    },
+    {
+      "id": "dragonthroat_gauntlet",
+      "model": "models/item/dragonthroat_gauntlet.json"
+    },
+    {
+      "id": "dragonwing_cloak",
+      "model": "models/item/dragonwing_cloak.json"
+    },
+    {
+      "id": "resonant_necklace",
+      "model": "models/item/resonant_necklace.json"
+    },
+    {
+      "id": "silent_belt",
+      "model": "models/item/silent_belt.json"
+    },
+    {
+      "id": "keeper_gauntlet",
+      "model": "models/item/keeper_gauntlet.json"
+    },
+    {
+      "id": "murmur_cloak",
+      "model": "models/item/murmur_cloak.json"
+    },
+    {
+      "id": "watermirror_necklace",
+      "model": "models/item/watermirror_necklace.json"
+    },
+    {
+      "id": "undertow_belt",
+      "model": "models/item/undertow_belt.json"
+    },
+    {
+      "id": "tidepull_gauntlet",
+      "model": "models/item/tidepull_gauntlet.json"
+    },
+    {
+      "id": "undertow_cloak",
+      "model": "models/item/undertow_cloak.json"
+    },
+    {
+      "id": "rift_blade",
+      "model": "models/item/rift_blade.json"
+    },
+    {
+      "id": "tide_spear",
+      "model": "models/item/tide_spear.json"
+    },
+    {
+      "id": "echo_shield",
+      "model": "models/item/echo_shield.json"
+    },
+    {
+      "id": "dragon_workstation",
+      "model": "models/block/dragon_workstation.json"
+    },
+    {
+      "id": "echo_workstation",
+      "model": "models/block/echo_workstation.json"
+    },
+    {
+      "id": "tide_workstation",
+      "model": "models/block/tide_workstation.json"
+    },
+    {
+      "id": "resonance_box",
+      "model": "models/block/resonance_box.json"
+    },
+    {
+      "id": "endmarrow_ore",
+      "model": "models/block/endmarrow_ore.json"
+    },
+    {
+      "id": "endforged_helmet",
+      "model": "models/item/endforged_helmet.json"
+    },
+    {
+      "id": "endforged_chestplate",
+      "model": "models/item/endforged_chestplate.json"
+    },
+    {
+      "id": "endforged_leggings",
+      "model": "models/item/endforged_leggings.json"
+    },
+    {
+      "id": "endforged_boots",
+      "model": "models/item/endforged_boots.json"
+    }
+  ]
+}

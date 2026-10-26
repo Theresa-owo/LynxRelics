@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:heart_of_the_sea",
+    "minecraft:golden_carrot",
+    "minecraft:golden_carrot",
+    "minecraft:golden_carrot",
+    "minecraft:golden_carrot",
+    "minecraft:gold_block",
+    "minecraft:gold_block",
+    "lynxrelics:condensed_tide",
+    "lynxrelics:condensed_tide"
+  ],
+  "result": {
+    "id": "lynxrelics:abundance_core",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:rift_emblem",
+    "lynxrelics:endmarrow_ingot",
+    "minecraft:diamond",
+    "minecraft:diamond",
+    "minecraft:diamond",
+    "minecraft:diamond",
+    "minecraft:end_stone",
+    "minecraft:end_stone",
+    "minecraft:end_stone"
+  ],
+  "result": {
+    "id": "lynxrelics:endforged_template",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "lynxrelics:tideforged_copper",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "lynxrelics:steady_rest",
+    "count": 1
+  }
+}

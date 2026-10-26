@@ -1,0 +1,325 @@
+{
+  "phase": "textured",
+  "generator": "scripts/generate-assets.mjs",
+  "coordinateUnits": "16 units = 1 block",
+  "assets": [
+    {
+      "id": "homing_dragon_necklace",
+      "cuboids": 4,
+      "bones": [
+        "neck",
+        "pendant"
+      ],
+      "phase": "textured",
+      "source": "homing_dragon_necklace.bbmodel",
+      "runtime": "models/item/homing_dragon_necklace.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/dragon.png"
+    },
+    {
+      "id": "dragonbound_belt",
+      "cuboids": 5,
+      "bones": [
+        "waist",
+        "buckle"
+      ],
+      "phase": "textured",
+      "source": "dragonbound_belt.bbmodel",
+      "runtime": "models/item/dragonbound_belt.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/dragon.png"
+    },
+    {
+      "id": "dragonthroat_gauntlet",
+      "cuboids": 24,
+      "bones": [
+        "forearm",
+        "hand",
+        "jaw"
+      ],
+      "phase": "textured",
+      "source": "dragonthroat_gauntlet.bbmodel",
+      "runtime": "models/item/dragonthroat_gauntlet.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/dragon.png"
+    },
+    {
+      "id": "dragonwing_cloak",
+      "cuboids": 5,
+      "bones": [
+        "back",
+        "wing_left",
+        "wing_right"
+      ],
+      "phase": "textured",
+      "source": "dragonwing_cloak.bbmodel",
+      "runtime": "models/item/dragonwing_cloak.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/dragon.png"
+    },
+    {
+      "id": "resonant_necklace",
+      "cuboids": 4,
+      "bones": [
+        "neck",
+        "pendant"
+      ],
+      "phase": "textured",
+      "source": "resonant_necklace.bbmodel",
+      "runtime": "models/item/resonant_necklace.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/echo.png"
+    },
+    {
+      "id": "silent_belt",
+      "cuboids": 5,
+      "bones": [
+        "waist",
+        "buckle"
+      ],
+      "phase": "textured",
+      "source": "silent_belt.bbmodel",
+      "runtime": "models/item/silent_belt.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/echo.png"
+    },
+    {
+      "id": "keeper_gauntlet",
+      "cuboids": 24,
+      "bones": [
+        "forearm",
+        "hand",
+        "jaw"
+      ],
+      "phase": "textured",
+      "source": "keeper_gauntlet.bbmodel",
+      "runtime": "models/item/keeper_gauntlet.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/echo.png"
+    },
+    {
+      "id": "murmur_cloak",
+      "cuboids": 5,
+      "bones": [
+        "back",
+        "wing_left",
+        "wing_right"
+      ],
+      "phase": "textured",
+      "source": "murmur_cloak.bbmodel",
+      "runtime": "models/item/murmur_cloak.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/echo.png"
+    },
+    {
+      "id": "watermirror_necklace",
+      "cuboids": 4,
+      "bones": [
+        "neck",
+        "pendant"
+      ],
+      "phase": "textured",
+      "source": "watermirror_necklace.bbmodel",
+      "runtime": "models/item/watermirror_necklace.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/tide.png"
+    },
+    {
+      "id": "undertow_belt",
+      "cuboids": 5,
+      "bones": [
+        "waist",
+        "buckle"
+      ],
+      "phase": "textured",
+      "source": "undertow_belt.bbmodel",
+      "runtime": "models/item/undertow_belt.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/tide.png"
+    },
+    {
+      "id": "tidepull_gauntlet",
+      "cuboids": 24,
+      "bones": [
+        "forearm",
+        "hand",
+        "jaw"
+      ],
+      "phase": "textured",
+      "source": "tidepull_gauntlet.bbmodel",
+      "runtime": "models/item/tidepull_gauntlet.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/tide.png"
+    },
+    {
+      "id": "undertow_cloak",
+      "cuboids": 5,
+      "bones": [
+        "back",
+        "wing_left",
+        "wing_right"
+      ],
+      "phase": "textured",
+      "source": "undertow_cloak.bbmodel",
+      "runtime": "models/item/undertow_cloak.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/tide.png"
+    },
+    {
+      "id": "rift_blade",
+      "cuboids": 7,
+      "bones": [
+        "root"
+      ],
+      "phase": "textured",
+      "source": "rift_blade.bbmodel",
+      "runtime": "models/item/rift_blade.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/dragon.png"
+    },
+    {
+      "id": "tide_spear",
+      "cuboids": 6,
+      "bones": [
+        "root"
+      ],
+      "phase": "textured",
+      "source": "tide_spear.bbmodel",
+      "runtime": "models/item/tide_spear.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/tide.png"
+    },
+    {
+      "id": "echo_shield",
+      "cuboids": 7,
+      "bones": [
+        "root"
+      ],
+      "phase": "textured",
+      "source": "echo_shield.bbmodel",
+      "runtime": "models/item/echo_shield.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/echo.png"
+    },
+    {
+      "id": "dragon_workstation",
+      "cuboids": 32,
+      "bones": [
+        "root",
+        "core",
+        "bottles"
+      ],
+      "phase": "textured",
+      "source": "dragon_workstation.bbmodel",
+      "runtime": "models/block/dragon_workstation.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/dragon.png"
+    },
+    {
+      "id": "echo_workstation",
+      "cuboids": 29,
+      "bones": [
+        "root",
+        "core",
+        "bottles"
+      ],
+      "phase": "textured",
+      "source": "echo_workstation.bbmodel",
+      "runtime": "models/block/echo_workstation.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/echo.png"
+    },
+    {
+      "id": "tide_workstation",
+      "cuboids": 16,
+      "bones": [
+        "root",
+        "core",
+        "bottles"
+      ],
+      "phase": "textured",
+      "source": "tide_workstation.bbmodel",
+      "runtime": "models/block/tide_workstation.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/tide.png"
+    },
+    {
+      "id": "resonance_box",
+      "cuboids": 5,
+      "bones": [
+        "root"
+      ],
+      "phase": "textured",
+      "source": "resonance_box.bbmodel",
+      "runtime": "models/block/resonance_box.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/dragon.png"
+    },
+    {
+      "id": "endmarrow_ore",
+      "cuboids": 1,
+      "bones": [
+        "root"
+      ],
+      "phase": "textured",
+      "source": "endmarrow_ore.bbmodel",
+      "runtime": "models/block/endmarrow_ore.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/end.png"
+    },
+    {
+      "id": "endforged_helmet",
+      "cuboids": 1,
+      "bones": [
+        "head"
+      ],
+      "phase": "textured",
+      "source": "endforged_helmet.bbmodel",
+      "runtime": "models/item/endforged_helmet.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/end.png"
+    },
+    {
+      "id": "endforged_chestplate",
+      "cuboids": 3,
+      "bones": [
+        "body",
+        "left_arm",
+        "right_arm"
+      ],
+      "phase": "textured",
+      "source": "endforged_chestplate.bbmodel",
+      "runtime": "models/item/endforged_chestplate.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/end.png"
+    },
+    {
+      "id": "endforged_leggings",
+      "cuboids": 3,
+      "bones": [
+        "body",
+        "left_leg",
+        "right_leg"
+      ],
+      "phase": "textured",
+      "source": "endforged_leggings.bbmodel",
+      "runtime": "models/item/endforged_leggings.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/end.png"
+    },
+    {
+      "id": "endforged_boots",
+      "cuboids": 2,
+      "bones": [
+        "left_leg",
+        "right_leg"
+      ],
+      "phase": "textured",
+      "source": "endforged_boots.bbmodel",
+      "runtime": "models/item/endforged_boots.json",
+      "animations": "Timeline stubs; runtime animation acceptance pending",
+      "texture": "textures/material/end.png"
+    }
+  ],
+  "materialCompiler": "scripts/bake-model-materials.mjs"
+}

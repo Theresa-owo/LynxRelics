@@ -1,0 +1,8 @@
+{
+  "sources": [
+    { "type": "minecraft:single", "resource": "lynxrelics:material/dragon" },
+    { "type": "minecraft:single", "resource": "lynxrelics:material/echo" },
+    { "type": "minecraft:single", "resource": "lynxrelics:material/tide" },
+    { "type": "minecraft:single", "resource": "lynxrelics:material/end" }
+  ]
+}

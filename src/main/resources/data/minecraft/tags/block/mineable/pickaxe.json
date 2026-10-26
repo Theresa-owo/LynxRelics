@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lynxrelics:endmarrow_ore",
+    "lynxrelics:dragon_workstation",
+    "lynxrelics:echo_workstation",
+    "lynxrelics:tide_workstation"
+  ]
+}

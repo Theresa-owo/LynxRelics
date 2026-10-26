@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:compass",
+    "lynxrelics:echo_dust",
+    "lynxrelics:echo_dust",
+    "lynxrelics:condensed_tide",
+    "lynxrelics:condensed_tide",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "lynxrelics:expedition_compass",
+    "count": 1
+  }
+}
