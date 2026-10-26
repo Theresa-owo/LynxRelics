@@ -8,6 +8,12 @@
 
 按用户原先明确要求准备向Theresa-owo/LynxRelics公开源码；gh已确认该仓库公开且为空。仅提交本项目源码/设计/模型及验证记录，忽略build、run、.local、deliverables；不发布正式Release或操作生产。此后仓库结果需要实际push回执确认。
 
+## 18:27 源码交付回执
+
+已按上述授权初始化本项目Git，首次实现提交`5d621d96bae6f9a58a7ee73270b8a71830064b39`，873文件，使用已认证Theresa-owo账号的noreply提交身份，没有修改全局Git身份或认证方法。`git push --set-upstream origin main`退出0；GitHub API复核main指向同一SHA，仓库公开且非空。源码/模型/文档/验证报告已托管于https://github.com/Theresa-owo/LynxRelics，未创建Release。
+
+build、run、.local、deliverables均确认未进入暂存区；Gradle wrapper保留内置LICENSE。Git交付后只追加本回执文档，不改已验证玩法/运行资源。当前本地候选仍是stage12：JAR/ZIP/源码包/sha256.json及client-load.json。18:27复核客户端PID67036仍运行，继续交由用户手测；43项组件与实际0条Mod缺失纹理加载警告的边界不变。
+
 ## 2026-10-26 18:01 恢复开发
 
 用户已明确“继续实现”，暂停结束。本轮重新核对了源码、无Git状态、无活动开发Java进程及旧报告，未操作生产和Lunar。沿用long-pipeline检查点，不新建任务或代理。
